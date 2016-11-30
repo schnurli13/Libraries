@@ -1,0 +1,98 @@
+﻿Bibliotheks ID	"Bundes-
+land"	"Bücher, Zeitungen und
+Zeitschriften sowie
+fortlaufende Sammelwerke"	"Karten
+und
+Pläne"	Gedruckte Musikalien	"Einblatt-
+materialien1)"	"Sonstige
+Druckwerke2)"	"Analoge audio- 
+visuelle 
+Materialien3)"	"Mikro-
+materialien"	"Weitere nicht-
+elektronische
+Materialien"	"Manuskripte:
+Handschriften
+und
+Autographen"	"Digitale
+Bestände:
+Einzel-
+dokumente
+sowie
+Datenbanken4)"
+1	W	3.805.651	298.015	136.051	789.667	-	40.828	18.382	200.593	461.613	20.879
+2	K	147.264	365	100	.	-	44.000	-	-	-	-
+3	N	367.931	24.438	-	133.358	-	12.723	9	2.319	-	114.217
+4	O	(500.500)	(100)	(60)	(300)	-	(500)	(35)	-	(1.000)	(15.000)
+5	St	752.770	1.630	3.856	(7.500)	(1.110)	1.130	11.260	(9.600)	3.315	16.339
+6	V	(580.000)	(1.500)	87	.	.	(18.850)	3.740	(700)	782	(18.000)
+7	W	600.687	.	74.649	118.351	-	-	5.661	(250.000)	264.137	62.305
+8	K	924.767	.	.	.	.	.	.	.	452	.
+9	O	75.267	-	-	-	.	-	-	.	-	3.493
+10	O	1.128.002	-	-	-	.	-	-	.	-	28.196
+11	S	100.565	-	157.021	-	.	732	-	.	209	17.078
+12	S	2.455.306	.	.	1.564	.	2.547	.	.	1.266	78.317
+13	St	.	.	.	.	.	.	.	.	2.231	.
+14	St	-	-	-	-	.	-	-	.	-	-
+15	St	.	4.627	-	.	.	.	.	.	.	4.224
+16	St	-	-	-	-	.	-	-	.	-	-
+17	St	83.730	-	104.998	-	.	23.686	1.101	.	11.754	28.438
+18	T	3.524.172	-	-	-	.	-	-	.	1.324	275.465
+19	W	696.973	-	-	-	.	N	-	.	-	16.771
+20	W	1.457.966	-	-	-	.	12.284	11.898	.	-	64.461
+21	W	131.521	781	-	5.693	-	8.847	22.376	3.570	506	7.827
+22	W	595.383	-	-	-	.	-	-	.	N	16.295
+23	W	121.280	-	136.649	-	.	-	68	.	62	10.381
+24	W	7.161.562	.	.	.	.	.	1.187.863	.	1.195	104.682
+25	W	218.805	-	-	-	.	535	44	.	-	.
+26	W	703.545	.	.	.	.	.	.	.	.	82.270
+27	B	44.185	-	-	-	.	1.414	-	.	-	127.268
+28	K	55.101	.	-	.	.	.	-	.	-	1.042
+29	N	27.774	-	-	-	.	84	-	.	-	2.842
+30	St	11.050	-	-	-	.	16	-	.	-	5.087
+31	St	66.140	-	-	-	.	135	-	.	-	2.312
+32	W	13.840	-	-	-	.	.	.	.	-	533
+33	W	26.560	-	-	-	.	-	-	.	-	4.300
+34	W	13.898	-	-	-	.	-	-	.	-	8
+35	B	32.848	-	-	-	-	1.990	-	.	.	1.391
+36	K	100.789	-	.	-	-	4.353	11	307	-	2.314
+37	O	125.071	.	.	.	.	669	-	.	.	3.184
+38	S	109.726	90	-	50	-	970	-	15	-	4.561
+39	St	51.950	-	-	-	-	800	-	2.450	-	2
+40	St	285.990	.	905	.	.	31.536	-	7.056	-	6.565
+41	T	77.608	.	.	.	.	87	.	2.367	.	2.086
+42	W	10.948	.	.	.	.	.	.	.	.	.
+43	W	195.095	-	-	-	-	7.247	-	269	-	8.159
+44	B	1.845	.	7.700	.	.	810	.	.	.	.
+45	K	51.300	-	-	-	-	2	-	-	-	3
+46	O	251.730	202	-	.	-	512	(16.000)	-	122	1.226
+47	S	.	.	.	.	.	.	.	.	.	1.479
+48	V	7.478	-	35.150	-	-	(15.000)	-	-	-	7.659
+49	W	(14.900)	-	25.715	-	-	8.806	-	-	-	146
+50	K	13.524	.	12	.	.	214	.	.	.	76
+51	N	(209.191)	.	.	.	.	(603)	.	.	.	5.875
+52	W	(1.500.000)	.	.	.	.	.	.	.	.	(400)
+53	W	54.018	-	-	-	-	-	-	-	-	394
+54	W	51.870	.	.	.	.	.	.	.	.	.
+55	W	(795.000)	-	-	-	21.868	1.730	710	-	-	6.316
+56	W	809.000	.	.	.	.	.	.	.	.	2.265
+57	W	138.034		-	-	-	-	1	-	-	-
+58	W	102.250	-	-	-	(26.000.000)	-	2.503.000	94.000	-	(18.100)
+59	W	358.912	.	.	.	.	.	.	.	.	9
+60	O	(23.000)	.	.	(2.700)	.	(765)	.	.	.	(70)
+61	O	(92.000)	.	-	-	-	65	4	-	-	-
+62	T	(293.000)	.	(300)	(86.000)	(21.000)	.	.	.	(3.000)	.
+63	V	115.100	.	.	.	-	.	879	-	50	.
+64	W	52.901	.	.	.	.	.	.	.	.	1.300
+65	W	45.987	-	-	140	-	.	-	-	-	3
+66	W	50.000	-	-	-	-	-	-	-	-	4
+67	W	93.604	.	.	4.000	.	11.000	.	777.000	48.000	207.400
+68	W	(398.905)	(4.920)	(195)	(200)	-	83	1.085	25	-	1.782
+69	W	50.000	.	.	.	.	.	.	.	.	10.000
+70	W	7.500	.	.	.	.	.	.	.	.	1.497
+71	W	(8.580)	-	-	-	-	-	-	-	-	24
+72	W	125.720	-	-	-	-	-	29	-	-	.
+73	St	(17.000)	.	.	.	.	.	.	.	.	.
+74	W	23.272	-	-	-	-	400	-	50	-	350
+75	W	6.000	10	5	.	.	86	.	.	.	.
+76	W	(230.000)	.	.	.	.	.	576	.	.	139
+"Q: STATISTIK AUSTRIA; Österreichische Bibliotheksstatistik (ÖBS). Erstellt am 31.05.2016. 1) Flugblätter, Druckgraphiken und Zeichnungen, Portraits, Plakate, Exlibris, Buchumschläge usw. - 2) Normen, Patente etc. - 3) Tonträger, Dias sowie Filme und Videomaterialien. - 4) Digitale Einzeldokumente, wie z.B. elektron. Dissertationen, eBooks, digitale audiovisuelle Medien oder Multimedia-Dokumente, sowie Datenbanken. - 5) Durch einen Kooperationsvertrag mit dem Land Tirol ist die Bibliothek seit 2007 zusätzlich in der Rolle der Landesbibliothek bestätigt. - 6) Clusterbibliothek für das Bundeskanzleramt, die Bundesministerien für Inneres, für Bildung und Frauen sowie das Österreichische Staatsarchiv. - 7) Clusterbibliothek für die Bundesministerien für Arbeit, Soziales und Konsumentenschutz, für Familien und Jugend, für Gesundheit, für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, für Verkehr, Innovation und Technologie und für Wissenschaft, Forschung und Wirtschaft, das Bundesamt für Eich- und Vermessungswesen sowie die Bundesimmobiliengesellschaft. - 8) Inklusive 721 Atlanten. - 9) 23.632 Kartenpläne, 806 burgenkundl. Pläne. - 10) 26.620 topogr. Ansichten, 60.878 Ansichtskarten, 2.533 Exlibris, 4.582 Portraits, 551 Flugschriften, 28.279 burgenkundl. Ansichten, 9.915 burgenkundl. Zeitungsausschnitte. - 11) Inklusive Fotos. - 12) 92 Schallplatten, 262 Kompaktkassetten, 724 Videokassetten, 37 Dias, 24 Spiele, 6.825 burgenkunkl. Negative, 4.759 burgenkundl. Diapositive. - 13) 352 Kupferplatten, 1.967 burgenkundl. Korrespondenzmappen. - 14) Umfasst Inkunabeln und alte Drucke. - 15) Globen - Sammlung Woldan. - 16) 304 alte Handschriften der Stiftsbibliothek; 478 des Franz-Michael-Felder-Archivs.. - 17) 302 CD's, 1.554 CR-ROM, 312 DVD's, 248 Disketten, 111.801 Bilddateien. - 18) E-Book und Datenbankenpakete, teilweise auf externen Servern. - 19) Umfasst auch via Datenbank zugängliche Digitalisate von Plakaten und Fotos.  "											

@@ -1,0 +1,78 @@
+﻿Bibliothek	ID
+Österreichische Nationalbibliothek	1
+Kärntner Landesbibliothek	2
+Niederösterreichische Landesbibliothek	3
+Oberösterreichische Landesbibliothek	4
+Steiermärkische Landesbibliothek	5
+Vorarlberger Landesbibliothek	6
+Wienbibliothek im Rathaus	7
+Universität Klagenfurt	8
+Kunstuniverisität Linz	9
+Johannes Kepler Universität Linz	10
+Universität Mozarteum Salzburg	11
+Universität Salzburg	12
+Karl-Franzens-Universität Graz 	13
+Medizinischen Universität Graz	14
+Montanuniversität Leoben	15
+Technischen Universität Graz	16
+Universität für Musik und darstellende Kunst Graz	17
+Universitäts- und Landesbibliothek Tirol5)	18
+Medizinische Universität Wien	19
+Technische Universität Wien	20
+Universität für angewandte Kunst Wien	21
+Universität für Bodenkultur Wien	22
+Universität für Musik und darstellende Kunst Wien	23
+Universität Wien	24
+Veterinärmedizinischen Universität Wien	25
+Wirtschaftsuniversität Wien	26
+FH Eisenstadt	27
+FH Villach	28
+FH St. Pölten	29
+FH Graz	30
+FH JOANNEUM Bibliotheks- und                                  Informationszentrum	31
+Fachhochschule des bfi Wien	32
+FH Campus Wien, Bibliothek und Mediathek	33
+FH Wien - Studiengänge der WKW	34
+Pädagogische Hochschule Burgenland	35
+Pädagogische Hochschule Kärnten	36
+Pädagogische Hochschule Oberösterreich	37
+Pädagogische Hochschule Salzburg	38
+Kirchlich Pädagogische Hochschule Graz	39
+Pädagogische Hoschschule Steiermark	40
+Pädagogische Hochschule Tirol	41
+Hochschule für Agrar- und Umweltpädagogik Wien	42
+Pädagogische Hochschule Wien Campusbibliothek	43
+Joseph Haydn Konservatorium des                         Landes Burgenland	44
+Diözesanbibliothek Klagenfurt	45
+Diözesan- und Universitätsbibliothek der                 Katholischen Privat-Universität Linz	46
+Bundeseinrichtung für Erwachsenenbildung	47
+Vorarlberger Landeskonservatorium	48
+Konservatorium Wien Privatuniversität	49
+Amtsbibliothek des Landesschulrates für Kärnten	50
+Bundesstaatliche Pädagogische                                                                                                                                                                                                                                                                                                                                                Bibliothek beim Landesschulrat für NÖ                                                                                                                                                                                                                                                                                                                                              (inkl. Exposituren Baden und Hollabrunn)	51
+Administrative Bibliothek des Bundes6)	52
+Bundesanstalt für Agrarwirtschaft	53
+Bundesministerium für Justiz	54
+BMLVS Österreichische Militärbibliothek	55
+Clusterbibliothek - Europäisches Dokumentations-zentrum (EDZ)7)	56
+Oberster Gerichtshof	57
+Österreichisches Patentamt	58
+Parlamentsbibliothek	59
+Adalbert-Stifter Institut 	60
+Oberösterreichisches Landesarchiv	61
+Tiroler Landesmuseum Ferdinandeum	62
+Stadtbibliothek Feldkirch	63
+"Bundesforschungs- und Ausbildungszentrum für 
+Wald, Naturgefahren und Landschaft"	64
+C3-Bibliothek für Entwicklungspolitik	65
+Institut für Höhere Studien (IHS)	66
+Literaturhaus Wien	67
+Österreichische Akademie der Wissenschaft	68
+Österreichisches Institut für Wirtschaftsforschung	69
+Österreichische Kulturdokumentation	70
+Wiener Institut für Internationale Wirtschaftsvergleiche	71
+Wiener Stadt- und Landesarchiv	72
+Theologenbücherei Priesterseminar Graz	73
+Bibliothek der Evangelischen Kirche	74
+Christlich-jüdisches Informationszentrum	75
+Wirtschaftskammer Wien	76
