@@ -18,7 +18,7 @@ var labelArc = d3.svg.arc()
 
 var pie = d3.layout.pie()
     .sort(null)
-    .value(function(d) { return d.population; });
+    .value(function(d) { return d.zahl; });
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -26,7 +26,7 @@ var svg = d3.select("body").append("svg")
     .append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-d3.csv("data.csv", type, function(error, data) {
+d3.csv("bibs.csv", type, function(error, data) {
     if (error) throw error;
 
     var g = svg.selectAll(".arc")
@@ -36,15 +36,15 @@ d3.csv("data.csv", type, function(error, data) {
 
     g.append("path")
         .attr("d", arc)
-        .style("fill", function(d) { return color(d.data.age); });
+        .style("fill", function(d) { return color(d.data.bibliothek); });
 
     g.append("text")
         .attr("transform", function(d) { return "translate(" + labelArc.centroid(d) + ")"; })
         .attr("dy", ".35em")
-        .text(function(d) { return d.data.age; });
+        .text(function(d) { return d.data.bibliothek; });
 });
 
 function type(d) {
-    d.population = +d.population;
+    d.zahl = +d.zahl;
     return d;
 }
