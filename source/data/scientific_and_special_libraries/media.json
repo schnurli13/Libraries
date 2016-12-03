@@ -1,0 +1,1601 @@
+{
+   "name": "Bibliotheken",
+   "children": [
+      {
+
+         "name": 1 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":3805651},
+                  {"name":"Karten_und_Pläne","size":298015},
+                  {"name":"Gedruckte_Musikalien","size":136051},
+                  {"name":"Einblattmaterialien","size":789667},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":40828},
+                  {"name":"Mikromaterialien","size":18382},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":200593},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":461613},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":20879}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 2 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":147264},
+                  {"name":"Karten_und_Pläne","size":365},
+                  {"name":"Gedruckte_Musikalien","size":100},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":44000},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 3 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":367931},
+                  {"name":"Karten_und_Pläne","size":24438},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":133358},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":12723},
+                  {"name":"Mikromaterialien","size":9},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":2319},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":114217}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 4 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":500500},
+                  {"name":"Karten_und_Pläne","size":100},
+                  {"name":"Gedruckte_Musikalien","size":60},
+                  {"name":"Einblattmaterialien","size":300},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":500},
+                  {"name":"Mikromaterialien","size":35},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":1000},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":15000}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 5 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":752770},
+                  {"name":"Karten_und_Pläne","size":1630},
+                  {"name":"Gedruckte_Musikalien","size":3856},
+                  {"name":"Einblattmaterialien","size":7500},
+                  {"name":"Sonstige_Druckwerke","size":1110},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":1130},
+                  {"name":"Mikromaterialien","size":11260},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":9600},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":3315},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16339}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 6 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":580000},
+                  {"name":"Karten_und_Pläne","size":1500},
+                  {"name":"Gedruckte_Musikalien","size":87},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":18850},
+                  {"name":"Mikromaterialien","size":3740},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":700},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":782},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18000}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 7 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":600687},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":74649},
+                  {"name":"Einblattmaterialien","size":118351},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":5661},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":250000},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":264137},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":62305}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 8 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":924767},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":452},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 9 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":75267},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3493}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 10 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1128002},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28196}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 11 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":100565},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":157021},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":732},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":209},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":17078}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 12 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":2455306},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":1564},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":2547},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":1266},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":78317}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 13 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":2231},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 14 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 15 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
+                  {"name":"Karten_und_Pläne","size":4627},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4224}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 16 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 17 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":83730},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":104998},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":23686},
+                  {"name":"Mikromaterialien","size":1101},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":11754},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28438}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 18 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":3524172},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":1324},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":275465}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 19 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":696973},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16771}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 20 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1457966},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":12284},
+                  {"name":"Mikromaterialien","size":11898},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":64461}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 21 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":131521},
+                  {"name":"Karten_und_Pläne","size":781},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":5693},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":8847},
+                  {"name":"Mikromaterialien","size":22376},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":3570},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":506},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7827}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 22 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":595383},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16295}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 23 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":121280},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":136649},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":68},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":62},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10381}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 24 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7161562},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":1187863},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":1195},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":104682}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 25 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":218805},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":535},
+                  {"name":"Mikromaterialien","size":44},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 26 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":703545},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":82270}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 27 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":44185},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":1414},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":127268}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 28 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":55101},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1042}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 29 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":27774},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":84},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2842}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 30 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":11050},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":16},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5087}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 31 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":66140},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":135},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2312}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 32 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13840},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":533}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 33 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":26560},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4300}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 34 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13898},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 35 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":32848},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":1990},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1391}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 36 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":100789},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":4353},
+                  {"name":"Mikromaterialien","size":11},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":307},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2314}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 37 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":125071},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":669},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3184}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 38 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":109726},
+                  {"name":"Karten_und_Pläne","size":90},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":50},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":970},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":15},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4561}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 39 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51950},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":800},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":2450},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 40 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":285990},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":905},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":31536},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":7056},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6565}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 41 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":77608},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":87},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":2367},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2086}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 42 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":10948},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 43 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":195095},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":7247},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":269},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8159}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 44 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1845},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":7700},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":810},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 45 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51300},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":2},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 46 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":251730},
+                  {"name":"Karten_und_Pläne","size":202},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":512},
+                  {"name":"Mikromaterialien","size":16000},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":122},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1226}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 47 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1479}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 48 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7478},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":35150},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":15000},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7659}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 49 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":14900},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":25715},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":8806},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":146}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 50 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13524},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":12},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":214},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":76}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 51 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":209191},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":603},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5875}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 52 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1500000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":400}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 53 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":54018},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":394}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 54 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51870},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 55 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":795000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":21868},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":1730},
+                  {"name":"Mikromaterialien","size":710},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6316}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 56 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":809000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2265}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 57 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":138034},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":1},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 58 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":102250},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":26000000},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":2503000},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":94000},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18100}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 59 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":358912},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":9}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 60 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":23000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":2700},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":765},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":70}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 61 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":92000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":65},
+                  {"name":"Mikromaterialien","size":4},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 62 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":293000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":300},
+                  {"name":"Einblattmaterialien","size":86000},
+                  {"name":"Sonstige_Druckwerke","size":21000},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":3000},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 63 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":115100},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":879},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":50},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 64 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":52901},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1300}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 65 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":45987},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":140},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 66 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":50000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 67 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":93604},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":4000},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":11000},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":777000},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":48000},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":207400}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 68 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":398905},
+                  {"name":"Karten_und_Pläne","size":4920},
+                  {"name":"Gedruckte_Musikalien","size":195},
+                  {"name":"Einblattmaterialien","size":200},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":83},
+                  {"name":"Mikromaterialien","size":1085},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":25},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1782}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 69 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":50000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10000}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 70 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7500},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1497}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 71 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":8580},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":24}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 72 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":125720},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":29},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 73 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":17000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 74 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":23272},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":400},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":50},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":350}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 75 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":6000},
+                  {"name":"Karten_und_Pläne","size":10},
+                  {"name":"Gedruckte_Musikalien","size":5},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":86},
+                  {"name":"Mikromaterialien","size":0},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": 76 ,
+         "children": [
+            {
+               "name": "Medien",
+               "children": [
+                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":230000},
+                  {"name":"Karten_und_Pläne","size":0},
+                  {"name":"Gedruckte_Musikalien","size":0},
+                  {"name":"Einblattmaterialien","size":0},
+                  {"name":"Sonstige_Druckwerke","size":0},
+                  {"name":"Analoge_audiovisuelle_Materialien","size":0},
+                  {"name":"Mikromaterialien","size":576},
+                  {"name":"Weitere_nichtelektronische_Materialien","size":0},
+                  {"name":"Manuskripte:Handschriften_und_Autographen","size":0},
+                  {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":139}
+               ]
+            }
+         ]
+      }
+   ]
+}

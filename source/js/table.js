@@ -31,6 +31,6 @@ var tabulate = function (data,columns) {
 d3.csv('data/scientific_and_special_libraries/medienbestand_der_wissenschaftlichen_bibliotheken_und_spezialbibliotheken_.csv',function (data) {
     //var columns = ['Bibliothek','ID']
 
-    var columns = ["ID","Bundesland","Bücher, Zeitungen und Zeitschriften sowie fortlaufende Sammelwerke","Karten und Pläne","Gedruckte Musikalien","Einblattmaterialien","Sonstige Druckwerke","Analoge audiovisuelle Materialien","Mikromaterialien","Weitere nicht-elektronische Materialien","Manuskripte:Handschriften und Autographen","Digitale Bestände: Einzeldokumente sowie Datenbanken"]
+    var columns = ["ID","Bundesland","Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","Karten_und_Pläne","Gedruckte_Musikalien","Einblattmaterialien","Sonstige_Druckwerke","Analoge_audiovisuelle_Materialien","Mikromaterialien","Weitere_nichtelektronische_Materialien","Manuskripte:Handschriften_und_Autographen","Digitale_Bestände:Einzeldokumente_sowie_Datenbanken"]
     tabulate(data,columns)
 })
