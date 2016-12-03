@@ -1,0 +1,154 @@
+Bibliothek,Bundesland,Adresse,Registrierte Personen,Bibliotheksbesuche(Benützungsfälle),Benützte Dokumente (ohne Fristverlängerungen),Fernleihe: erhaltene Bestellungen (In- und Ausland),Zugriffe auf die Website,Suchanfragen in Online-Katalogen,Art
+
+Österreichische Nationalbibliothek,W,"Josefsplatz 1, 1015 Wien",20.418,266.814,460.315,3.620,96.793.986,9.215.662,Nationalbibliothek
+
+Kärntner Landesbibliothek,K,"Museumgasse 2, 9020 Klagenfurt am Wörthersee",800,.,.,.,.,.,Landesbibliotheken
+
+Niederösterreichische Landesbibliothek,N,"Landhaus Boulevard 1, 3100 St. Pölten",9.039,5.533,6.114,124,173.904,389.727,Landesbibliotheken
+
+Oberösterreichische Landesbibliothek,O,"Schillerpl. 2, 4020 Linz",6.601,110.000,90.341,2.041,(1.460.000),.,Landesbibliotheken
+
+Steiermärkische Landesbibliothek,St,"Kalchberggasse 2, 8010 Graz",1.731,.,52.125,246,274.736,.,Landesbibliotheken
+
+Vorarlberger Landesbibliothek,V,"Fluherstraße 4, 6900 Bregenz",7.510,.,110.461,899,(2.000.000),(600.000),Landesbibliotheken
+
+Wienbibliothek im Rathaus,W,"Rathaus, Felderstraße, 1082",.,14.606,16.510,125,315.460,.,Landesbibliotheken
+
+Universität Klagenfurt,K,"Universitätsstraße 65-67, 9020 Klagenfurt am Wörthersee",6.148,225.956,68.286,2.911,825.840,10.751.813,Bibliotheken öffentlicher Universitäten
+
+Kunstuniverisität Linz,O,"Sonnensteinstraße 11-13, 4040 Linz",1.342,.,17.140,.,-,95.350,Bibliotheken öffentlicher Universitäten
+
+Johannes Kepler Universität Linz,O,"Altenbergerstraße 69, 4040 Linz",10.179,.,74.560,1.143,-,1.250.000,Bibliotheken öffentlicher Universitäten
+
+Universität Mozarteum Salzburg,S,"Mirabellplatz 1, 5020 Salzburg",2.454,.,41.773,215,-,356.167,Bibliotheken öffentlicher Universitäten
+
+Universität Salzburg,S,"Kapitelgasse 4-6, 5020 Salzburg",16.956,600.256,311.715,.,-,4.887.674,Bibliotheken öffentlicher Universitäten
+
+Karl-Franzens-Universität Graz ,St,"Universitätspl. 3, 8010 Graz",21.774,722.419,254.736,3.147,942.272,.,Bibliotheken öffentlicher Universitäten
+
+Medizinischen Universität Graz,St,"Auenbruggerpl. 2, 8036 Graz",-,195.000,-,-,-,-,Bibliotheken öffentlicher Universitäten
+
+Montanuniversität Leoben,St,"Franz Josef-Straße 18, 8700 Leoben",2.077,137.787,12.562,540,.,.,Bibliotheken öffentlicher Universitäten
+
+Technischen Universität Graz,St,"Rechbauerstraße 12, 8010 Graz",-,385.441,-,-,364.771,-,Bibliotheken öffentlicher Universitäten
+
+Universität für Musik und darstellende Kunst Graz,St,"Leonhardstraße 15, 8010 Graz",2.747,60.794,25.132,37,49.729,279.645,Bibliotheken öffentlicher Universitäten
+
+Universitäts- und Landesbibliothek Tirol,T,"Innrain 50, 6020 Innsbruck",25.946,1.931.952,405.178,4.392,.,5.121.298,Bibliotheken öffentlicher Universitäten
+
+Medizinische Universität Wien,W,"Spitalgasse 23, 1090 Wien",8.293,743.206,76.682,7.933,.,.,Bibliotheken öffentlicher Universitäten
+
+Technische Universität Wien,W,"Karlsplatz 13, 1040 Wien",11.396,566.000,77.961,1.761,537.295,1.656.136,Bibliotheken öffentlicher Universitäten
+
+Universität für angewandte Kunst Wien,W,"Oskar Kokoschka-Platz 2, 1010 Wien",2.119,73.906,.,351,2.059,100.285,Bibliotheken öffentlicher Universitäten
+
+Universität für Bodenkultur Wien,W,"Gregor-Mendel-Straße 33, 1180 Wien",6.125,467.118,52.403,924,-,.,Bibliotheken öffentlicher Universitäten
+
+Universität für Musik und darstellende Kunst Wien ,W,"Anton-von-Webern-Platz 1, 1030 Wien",2.470,.,28.227,186,-,285.026,Bibliotheken öffentlicher Universitäten
+
+Universität Wien,W,"Universitätsring 1, 1010 Wien",69.943,2.824.272,983.790,17.287,-,15.797.656,Bibliotheken öffentlicher Universitäten
+
+Veterinärmedizinischen Universität Wien,W,"Veterinärpl. 1, 1210 Wien",2.354,93.998,37.774,408,98.623,.,Bibliotheken öffentlicher Universitäten
+
+Wirtschaftsuniversität Wien,W,"Welthandelsplatz 1 1, 1020 Wien",16.522,871.224,168.431,995,1.307.963,8.145.573,Bibliotheken öffentlicher Universitäten
+
+FH Eisenstadt,B,"Campus 1, 7000 Eisenstadt",835,.,12.341,228,-,69.077,Bibliotheken von Fachhochschulen
+
+FH Villach,K,"Europastraße 4, 9524 Villach",1.722,.,13.240,150,-,.,Bibliotheken von Fachhochschulen
+
+FH St. Pölten,N,"Matthias Corvinus-Straße 15, 3100 St. Pölten",1.705,60.431,25.650,336,-,.,Bibliotheken von Fachhochschulen
+
+FH Graz,St,"Alte Poststraße 149, 8020 Graz",819,5.448,7.080,-,-,.,Bibliotheken von Fachhochschulen
+
+FH JOANNEUM Bibliotheks- und Informationszentrum,St,"Alte Poststraße 149, 8020 Graz",2.845,37.877,21.301,324,-,.,Bibliotheken von Fachhochschulen
+
+Fachhochschule des bfi Wien,W,"Wohlmutstraße 22, 1020 Wien",.,.,.,-,-,.,Bibliotheken von Fachhochschulen
+
+"FH Campus Wien, Bibliothek und Mediathek",W,"Favoritenstraße 226, 1100 Wien",2.325,.,18.297,174,-,.,Bibliotheken von Fachhochschulen
+
+FH Wien - Studiengänge der WKW,W,"Währinger Gürtel 97, 1180 Wien",.,34.079,13.035,.,-,.,Bibliotheken von Fachhochschulen
+
+Pädagogische Hochschule Burgenland,B,"Thomas-Alva-Edison-Straße 1, 7000 Eisenstadt",997,.,20.443,.,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hochschule Kärnten,K,"Hubertusstraße 1, 9020 Klagenfurt am Wörthersee",.,.,15.687,167,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hochschule Oberösterreich,O,"Kaplanhofstraße 40, 4020 Linz",1.277,77.942,21.030,266,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hochschule Salzburg,S,"Akademiestraße 23, 5020 Salzburg",1.234,.,53.348,272,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Kirchlich Pädagogische Hochschule Graz,St,"Lange G. 2, 8010 Graz",2.112,15.500,16.018,2,75.200,8.138.616,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hoschschule Steiermark,St,"Ortweinpl. 1, 8010 Graz",.,145.411,35.763,392,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hochschule Tirol,T,"Pastorstraße 7, 6020 Innsbruck",8.493,80.184,25.890,350,43.709,.,Bibliotheken pädagogischer Hochschulen 
+
+Hochschule für Agrar- und Umweltpädagogik Wien,W,"Angermayergasse 1, 1130 Wien",646,.,1.740,.,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Pädagogische Hochschule Wien Campusbibliothek,W,"Grenzackerstraße 18, 1100 Wien",823,50.187,69.388,384,.,.,Bibliotheken pädagogischer Hochschulen 
+
+Joseph Haydn Konservatorium des Landes Burgenland,B,"Glorietteallee 2, 7000 Eisenstadt",370,500,550,.,.,.,Bibliotheken anderer Bildungseinrichtungen
+
+Diözesanbibliothek Klagenfurt,K,"Tarviser Str. 30, 9020 Klagenfurt am Wörthersee",-,870,853,3,2.582,.,Bibliotheken anderer Bildungseinrichtungen
+
+Diözesan- und Universitätsbibliothek der Katholischen Privat-Universität Linz (DUB),O,"Bethlehemstraße 20, 4020 Linz",5.514,41.515,12.077,9,.,.,Bibliotheken anderer Bildungseinrichtungen
+
+Bundeseinrichtung für Erwachsenenbildung,S,"Bürglstein 1 – 7, 5360 St. Wolfgang",1.475,8.345,5.795,235,.,.,Bibliotheken anderer Bildungseinrichtungen
+
+Vorarlberger Landeskonservatorium,V,"Reichenfeldgasse 9, 6800 Feldkirch",156,(4.500),11.801,-,.,.,Bibliotheken anderer Bildungseinrichtungen
+
+Konservatorium Wien Privatuniversität,W,"Johannesgasse 4A, 1010 Wien-Innere Stadt",390,7.579,13.451,(10),.,.,Bibliotheken anderer Bildungseinrichtungen
+
+Amtsbibliothek des Landesschulrates für Kärnten,K,"10. -Oktober-Straße 24, 9020 Klagenfurt am Wörthersee ",163,1.324,1.203,48,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Bundesstaatliche Pädagogische Bibliothek beim Landesschulrat für NÖ (inkl. Exposituren Baden und Hollabrunn),N,"Rennbahnstraße 29, 3109 St. Pölten",,98.353,25.285,1.253,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Administrative Bibliothek des Bundes,W,"Herrengasse 23, 1010 Wien",,.,.,.,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Bundesanstalt für Agrarwirtschaft,W,"Marxergasse 2, 4. Stock, 1030 Wien",.,.,119,-,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Bundesministerium für Justiz,W,"Museumstraße 7, 1070 Wien",.,.,.,.,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+BMLVS Österreichische Militärbibliothek,W,"Roßauer Lände 1, 1090 Wien",334,.,18.719,.,.,35.609,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Clusterbibliothek - Europäisches Dokumentationszentrum (EDZ),W,"Stubenring 1, 1010 Wien",1.919,.,2.797,935,74.122,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Oberster Gerichtshof,W,"Schmerlingpl. 11, 1011 Wien",.,.,.,-,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Österreichisches Patentamt,W,"Dresdner Str. 87, 1200 Wien",-,800,.,.,.,.,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Parlamentsbibliothek,W,"Dr.-Karl-Renner-Ring 3, 1017 Wien",804,8.833,11.849,16,6.132,2.338,"Parlaments-, Behörden- u. Gerichtsbibliotheken"
+
+Adalbert-Stifter Institut ,O,"Adalbert-Stifter-Platz 1, 4020 Linz",-,140,.,.,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Oberösterreichisches Landesarchiv,O,"Anzengruberstraße 19, 4020 Linz",.,.,.,12,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Tiroler Landesmuseum Ferdinandeum,T,"Museumstraße 15, 6020 Innsbruck",.,4.139,(9.400),.,,,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Stadtbibliothek Feldkirch,V,"Schlossergasse 8, 6800 Feldkirch",376,.,.,823,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+"Bundesforschungs- und Ausbildungszentrum für Wald, Naturgefahren und Landschaft",W,"Seckendorff-Gudent-Weg 8, 1130 Wien",.,.,.,.,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+C3-Bibliothek für Entwicklungspolitik,W,"Sensengasse 3, 1090 Wien",583,7.771,8.446,16,44.947,192.384,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Institut für Höhere Studien (IHS),W,"Josefstädter Str. 39, 1080 Wien",.,1.197,.,43,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Literaturhaus Wien,W,"Seidengasse 13, 1070 Wien",-,2.400,-,-,3.960.300,5.300,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Österreichische Akademie der Wissenschaft,W,"Doktor-Ignaz-Seipel-Platz 2, 1010 Wien",184,1.289,1.208,96,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Österreichisches Institut für Wirtschaftsforschung,W,"Arsenal 20, 1030 Wien",.,.,.,.,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Österreichische Kulturdokumentation,W,"Schultergasse 5/15, 1010 Wien",.,38,140,.,34.000,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Wiener Institut für Internationale Wirtschaftsvergleiche,W,"Rahlgasse 3, 1060 Wien",40,.,.,.,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Wiener Stadt- und Landesarchiv,W,"Gasometer D, Guglgasse 14, 1110",.,.,.,-,.,.,Bibliotheken von wissenschaftlichen Institutionen und Museen
+
+Theologenbücherei Priesterseminar Graz,St,"Bürgergasse 2, 8010 Graz",82,.,.,-,.,.,Bibliotheken von Körperschaften und Vereinen
+
+Bibliothek der Evangelischen Kirche,W,"Severin Schreiber-Gasse 1+3, 1180 Wien",52,.,-,-,.,.,Bibliotheken von Körperschaften und Vereinen
+
+Christlich-jüdisches Informationszentrum,W,"Tandelmarktgasse 5, 1020 Wien",.,186,468,5,.,.,Bibliotheken von Körperschaften und Vereinen
+
+Wirtschaftskammer Wien,W,"Stubenring 8-10, 1010 Wien",.,.,.,.,.,.,Bibliotheken von Körperschaften und Vereinen
+
