@@ -12,6 +12,10 @@ var path = d3.geo.path()
     .projection(projection)
     .pointRadius(2);
 
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
@@ -22,9 +26,22 @@ d3.json("data/scientific_and_special_libraries/aut.json", function(error, aut) {
         .data(topojson.feature(aut, aut.objects.gemeinden).features)
         .enter().append("path")
         .attr("class", function(d) {
-            return "gemeinde " + d.properties.name;
+            return "gemeinde " + d.properties.iso;
         })
-        .attr("d", path);
+        .attr("d", path)
+        .on("mouseover", function(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", 0.9);
+            div	.html(d.properties.name)
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY-25) + "px");
+        })
+        .on("mouseout", function(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });
 
    /* svg.append("path")
         .datum(topojson.feature(aut, aut.objects.gemeinden))

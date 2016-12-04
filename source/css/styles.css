@@ -54,51 +54,13 @@ body {
     font-size: 2.5em;
 }
 
-.subunit.AUT { fill: #dcd; }
-.place,
-.place-label {
-    fill: #444;
-}
-
-text {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10px;
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: orange;
+    border: 0px;
+    border-radius: 8px;
     pointer-events: none;
-}
-.subunit-boundary {
-    fill: none;
-    stroke: #777;
-    stroke-dasharray: 2,2;
-    stroke-linejoin: round;
-}
-.subunit-label {
-    fill: #777;
-    fill-opacity: .5;
-    font-size: 20px;
-    font-weight: 300;
-    text-anchor: middle;
-}
-.subunit.AUT { fill: #dcd; }
-.place,
-.place-label {
-    fill: #444;
-}
-
-text {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10px;
-    pointer-events: none;
-}
-.subunit-boundary {
-    fill: none;
-    stroke: #777;
-    stroke-dasharray: 2,2;
-    stroke-linejoin: round;
-}
-.subunit-label {
-    fill: #777;
-    fill-opacity: .5;
-    font-size: 20px;
-    font-weight: 300;
-    text-anchor: middle;
 }
