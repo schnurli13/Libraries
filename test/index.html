@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="./scripts/d3.v3.min.js" charset="utf-8"></script>
+<script src="./scripts/topojson.js"></script>
+<!--<script src="./wahlen.js"></script>-->
+<link rel="stylesheet" type="text/css" href="./style.css">
+<title>GeoJSON-Daten …sterreich</title>
+</head>
+<body>
+<div id="container_geo">
+
+<div id="map_geo"></div>
+
+</div>
+<script>
+var margin = {top: 20, right: 10, bottom: 20, left: 10};
+var width = 450 - margin.left - margin.right;
+var height = 350 - margin.top - margin.bottom;
+
+var projection = d3.geo.mercator().scale(1);
+var svg = d3.select("#map_geo").append("svg").attr("width", width).attr("height", height);
+svg.append("rect").attr("class", "background").attr("width", width).attr("height", height).on("click",zoom);
+var path = d3.geo.path().projection(projection);
+
+var g = svg.append("g");
+
+var laender;
+var bezirke;
+var gemeinden;
+
+var box;
+var s;
+var sorg;
+var b;
+var q=0;
+
+d3.json("./karten/geo/aut.json", function(temp) {
+laender = topojson.feature(temp, temp.objects.aut);
+d3.json("./karten/geo/bezirke_mit_wien.json", function(temp) {
+bezirke = topojson.feature(temp, temp.objects.bezirke_mit_wien);
+show();
+});
+});
+
+d3.json("./karten/geo/gemeinden.json", function(temp) {
+gemeinden = topojson.feature(temp, temp.objects.gemeinden);
+});
+
+function show()
+{
+b = path.bounds(laender);
+box = d3.geo.bounds(laender);
+s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+sorg = s;
+projection.scale(s).center([(box[0][0]+box[1][0])/2,(box[0][1]+box[1][1])/2]).translate([width/2,height/2]);
+
+g.append("g").selectAll("path").data(laender.features).enter().append("path").attr('d', path).attr("id",function(d){return d.properties.iso;}).attr("class", "units").on("click", zoom).append("title").text(function(d){return aut(d.properties.name);});
+}
+
+function zoom(d)
+{
+var select;
+var zoombox = box;
+if (q==0&&d!=null)
+{
+zoombox = d3.geo.bounds(d);
+select = d.properties.iso.slice(-1);
+b = path.bounds(d);
+s=select==2||select==7 ? s*(2/((b[1][1]-b[0][1])/100)) : s*(2.5/((b[1][1]-b[0][1])/100));
+q=1;
+}
+else if (q==1&&d!=null)
+{
+if (d.properties.iso.length==3&&d.properties.iso.substring(0,1)!=9)
+{
+zoombox = d3.geo.bounds(d);
+select = d.properties.iso.substring(0,3);
+b = path.bounds(d);
+s=s*(2.5/((b[1][1]-b[0][1])/100));
+q=2;
+}
+else
+{
+d3.selectAll(".bezirke").remove();
+d3.selectAll(".gemeinden").remove();
+s=sorg;
+q=0;
+}
+}
+else
+{
+d3.selectAll(".bezirke").remove();
+d3.selectAll(".gemeinden").remove();
+s=sorg;
+q=0;
+}
+
+projection.scale(s).center([(zoombox[0][0]+zoombox[1][0])/2,(zoombox[0][1]+zoombox[1][1])/2]).translate([width/2,height/2]);
+g.selectAll(".units").transition().duration(400).attr("d", path);
+
+if (q==1)
+{
+g.selectAll(".bezirke").data(bezirke.features).enter().append("path").filter(function(d){return select == d.properties.iso.charAt(0);}).attr('d', path).attr("id",function(d){return "b"+d.properties.iso;}).attr("class","bezirke").style("stroke","none").style("fill","none").on("click", zoom).transition().delay(400).style("fill","red").style("stroke","black");
+g.selectAll(".bezirke").append("title").text(function(d){return aut(d.properties.name);});
+}
+else if (q==2)
+{
+g.selectAll(".bezirke").transition().duration(400).attr("d", path).style("opacity",0.3);
+g.selectAll(".gemeinden").data(gemeinden.features).enter().append("path").filter(function(d){return select == d.properties.iso.substring(0,3);}).attr('d', path).attr("class","gemeinden").style("stroke","none").style("fill","none").on("click", zoom).transition().delay(400).style("fill","red").style("stroke","black");
+g.selectAll(".gemeinden").append("title").text(function(d){return aut(d.properties.name);});
+}
+}
+</script>
+</body>
+</html>
