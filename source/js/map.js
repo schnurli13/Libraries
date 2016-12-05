@@ -13,7 +13,8 @@ var projection = d3.geo.albers()
     .translate([width / 2, height / 2])
     .scale(scale0)
     .scaleExtent([scale0, 8 * scale0])
-    .on("zoom", zoomed);*/
+    .on("zoom", zoomed);
+ */
 
 var path = d3.geo.path()
     .projection(projection)
@@ -28,7 +29,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
     //.append("g");
 
-//var g = svg.append("g");
+var g = svg.append("g");
 
 
 /*svg.call(zoom)
@@ -76,7 +77,15 @@ d3.json("data/scientific_and_special_libraries/aut.json", function(error, aut) {
 
 });
 
+var zoom = d3.behavior.zoom()
+    .on("zoom",function() {
+        g.attr("transform","translate("+
+            d3.event.translate.join(",")+")scale("+d3.event.scale+")");
+        g.selectAll("path")
+            .attr("d", path.projection(projection));
+    });
 
+svg.call(zoom);
 /*function zoomed() {
     projection
         .translate(zoom.translate())
@@ -85,3 +94,4 @@ d3.json("data/scientific_and_special_libraries/aut.json", function(error, aut) {
     g.selectAll("path")
         .attr("d", path);
 }*/
+

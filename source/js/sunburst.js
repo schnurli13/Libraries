@@ -30,7 +30,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("data/scientific_and_special_libraries/media.json", function(error, root) {
+d3.json("data/scientific_and_special_libraries/data.json", function(error, root) {
     var g = svg.selectAll("g")
         .data(partition.nodes(root))
         .enter().append("g");

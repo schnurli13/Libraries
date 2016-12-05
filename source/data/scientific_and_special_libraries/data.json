@@ -1,0 +1,1904 @@
+{
+   "name": "Bundesland",
+   "children": [
+      {
+
+         "name": "Burgenland" ,
+         "children": [
+            {
+               "name": "Eisenstadt",
+               "children": [
+
+                  {
+                     "name": 27,
+                     "children": [
+
+                           {
+                              "name": "Medien",
+                              "children": [
+
+                              ]
+                           },
+                           {
+                              "name": "Benützung",
+                              "children": [
+
+                              ]
+                           },
+                           {
+                              "name": "Neuzugänge",
+                              "children": [
+
+                              ]
+                           }
+
+                     ]
+                  },
+                  {
+                     "name": 35,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 44,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+
+               ]
+            }
+
+         ]
+      },
+      {
+
+         "name": "Kärnten" ,
+         "children": [
+            {
+               "name": "Klagenfurt am Wörthersee",
+               "children": [
+                  {
+                     "name": 2,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+                              {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":147264},
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 8,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 36,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 45,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 50,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+
+               ]
+            },
+            {
+               "name": "Villach",
+               "children": [
+                  {
+                     "name": 28,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Niederösterreich" ,
+         "children": [
+            {
+               "name": "St. Pölten",
+               "children": [
+                  {
+                     "name": 3,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 29,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 51,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Oberösterreich" ,
+         "children": [
+            {
+               "name": "Linz",
+               "children": [
+                  {
+                     "name": 4,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 9,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 10,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 37,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 46,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 60,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 61,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Salzburg" ,
+         "children": [
+            {
+               "name": "Salzburg",
+               "children": [
+                     {
+                        "name": 11,
+                        "children": [
+                           {
+                              "name": "Medien",
+                              "children": [
+
+                              ]
+                           },
+                           {
+                              "name": "Benützung",
+                              "children": [
+
+                              ]
+                           },
+                           {
+                              "name": "Neuzugänge",
+                              "children": [
+
+                              ]
+                           }
+                        ]
+                     },
+                  {
+                     "name": 12,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 38,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 47,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "St.Wolfgang",
+               "children": [
+                  {
+                     "name": "Medien",
+                     "children": [
+
+                     ]
+                  },
+                  {
+                     "name": "Benützung",
+                     "children": [
+
+                     ]
+                  },
+                  {
+                     "name": "Neuzugänge",
+                     "children": [
+
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Steiermark" ,
+         "children": [
+            {
+               "name": "Graz",
+               "children": [
+                  {
+                     "name": 5,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 13,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 14,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 16,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 17,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 30,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 31,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 39,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 40,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 73,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Leoben",
+               "children": [
+                  {
+                     "name": 15,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Tirol" ,
+         "children": [
+            {
+               "name": "Innsbruck",
+               "children": [
+                  {
+                     "name": 18,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 41,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 62,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Vorarlberg" ,
+         "children": [
+            {
+               "name": "Bregenz",
+               "children": [
+                  {
+                     "name": 6,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Feldkirch",
+               "children": [
+
+                  {
+                     "name": 48,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 63,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+
+         "name": "Wien" ,
+         "children": [
+            {
+               "name": "Wien",
+               "children": [
+                  {
+                     "name": 1,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+                              {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":3805651},
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":20879}
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                        ]
+                  },
+                  {
+                     "name": 7,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 19,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 20,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 21,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 22,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 23,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 24,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 25,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 26,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 32,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 33,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 34,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 42,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 43,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 52,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 53,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 54,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 55,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 56,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 57,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 58,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 59,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 64,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 65,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 66,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 67,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 68,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 69,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 70,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 71,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 72,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 74,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 75,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name": 76,
+                     "children": [
+                        {
+                           "name": "Medien",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Benützung",
+                           "children": [
+
+                           ]
+                        },
+                        {
+                           "name": "Neuzugänge",
+                           "children": [
+
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Wien-Innere Stadt",
+               "children": [
+               {
+                  "name": 49,
+                  "children": [
+                     {
+                        "name": "Medien",
+                        "children": [
+
+                        ]
+                     },
+                     {
+                        "name": "Benützung",
+                        "children": [
+
+                        ]
+                     },
+                     {
+                        "name": "Neuzugänge",
+                        "children": [
+
+                        ]
+                     }
+                  ]
+               }
+               ]
+            }
+         ]
+      }
+   ]
+}
