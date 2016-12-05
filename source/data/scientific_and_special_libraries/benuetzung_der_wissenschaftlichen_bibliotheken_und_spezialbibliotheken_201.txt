@@ -1,0 +1,80 @@
+﻿Bibliotheks ID	Registrierte Personen	"Bibliotheks-
+besuche 
+(Benützungs-
+fälle)"	Benützte Dokumente (ohne Fristverlängerungen)	Fernleihe: erhaltene Bestellungen (In- und Ausland)	Zugriffe auf die Website	Suchanfragen in Online-Katalogen	Art
+1	20.418	266.814	460.315	3.620	96.793.986	9.215.662	Nationalbibliothek
+2	800	.	.	.	.	.	Landesbibliotheken
+3	9.039	5.533	6.114	124	173.904	389.727	Landesbibliotheken
+4	6.601	110.000	90.341	2.041	(1.460.000)	.	Landesbibliotheken
+5	1.731	.	52.125	246	274.736	.	Landesbibliotheken
+6	7.510	.	110.461	899	(2.000.000)	(600.000)	Landesbibliotheken
+7	.	14.606	16.510	125	315.460	.	Landesbibliotheken
+8	6.148	225.956	68.286	2.911	825.840	10.751.813	Bibliotheken öffentlicher Universitäten
+9	1.342	.	17.140	.	-	95.350	Bibliotheken öffentlicher Universitäten
+10	10.179	.	74.560	1.143	-	1.250.000	Bibliotheken öffentlicher Universitäten
+11	2.454	.	41.773	215	-	356.167	Bibliotheken öffentlicher Universitäten
+12	16.956	600.256	311.715	.	-	4.887.674	Bibliotheken öffentlicher Universitäten
+13	21.774	722.419	254.736	3.147	942.272	.	Bibliotheken öffentlicher Universitäten
+14	-	195.000	-	-	-	-	Bibliotheken öffentlicher Universitäten
+15	2.077	137.787	12.562	540	.	.	Bibliotheken öffentlicher Universitäten
+16	-	385.441	-	-	364.771	-	Bibliotheken öffentlicher Universitäten
+17	2.747	60.794	25.132	37	49.729	279.645	Bibliotheken öffentlicher Universitäten
+18	25.946	1.931.952	405.178	4.392	.	5.121.298	Bibliotheken öffentlicher Universitäten
+19	8.293	743.206	76.682	7.933	.	.	Bibliotheken öffentlicher Universitäten
+20	11.396	566.000	77.961	1.761	537.295	1.656.136	Bibliotheken öffentlicher Universitäten
+21	2.119	73.906	.	351	2.059	100.285	Bibliotheken öffentlicher Universitäten
+22	6.125	467.118	52.403	924	-	.	Bibliotheken öffentlicher Universitäten
+23	2.470	.	28.227	186	-	285.026	Bibliotheken öffentlicher Universitäten
+24	69.943	2.824.272	983.790	17.287	-	15.797.656	Bibliotheken öffentlicher Universitäten
+25	2.354	93.998	37.774	408	98.623	.	Bibliotheken öffentlicher Universitäten
+26	16.522	871.224	168.431	995	1.307.963	8.145.573	Bibliotheken öffentlicher Universitäten
+27	835	.	12.341	228	-	69.077	Bibliotheken von Fachhochschulen
+28	1.722	.	13.240	150	-	.	Bibliotheken von Fachhochschulen
+29	1.705	60.431	25.650	336	-	.	Bibliotheken von Fachhochschulen
+30	819	5.448	7.080	-	-	.	Bibliotheken von Fachhochschulen
+31	2.845	37.877	21.301	324	-	.	Bibliotheken von Fachhochschulen
+32	.	.	.	-	-	.	Bibliotheken von Fachhochschulen
+33	2.325	.	18.297	174	-	.	Bibliotheken von Fachhochschulen
+34	.	34.079	13.035	.	-	.	Bibliotheken von Fachhochschulen
+35	997	.	20.443	.	.	.	Bibliotheken pädagogischer Hochschulen 
+36	.	.	15.687	167	.	.	Bibliotheken pädagogischer Hochschulen 
+37	1.277	77.942	21.030	266	.	.	Bibliotheken pädagogischer Hochschulen 
+38	1.234	.	53.348	272	.	.	Bibliotheken pädagogischer Hochschulen 
+39	2.112	15.500	16.018	2	75.200	8.138.616	Bibliotheken pädagogischer Hochschulen 
+40	.	145.411	35.763	392	.	.	Bibliotheken pädagogischer Hochschulen 
+41	8.493	80.184	25.890	350	43.709	.	Bibliotheken pädagogischer Hochschulen 
+42	646	.	1.740	.	.	.	Bibliotheken pädagogischer Hochschulen 
+43	823	50.187	69.388	384	.	.	Bibliotheken pädagogischer Hochschulen 
+44	370	500	550	.	.	.	Bibliotheken anderer Bildungseinrichtungen
+45	-	870	853	3	2.582	.	Bibliotheken anderer Bildungseinrichtungen
+46	5.514	41.515	12.077	9	.	.	Bibliotheken anderer Bildungseinrichtungen
+47	1.475	8.345	5.795	235	.	.	Bibliotheken anderer Bildungseinrichtungen
+48	156	(4.500)	11.801	-	.	.	Bibliotheken anderer Bildungseinrichtungen
+49	390	7.579	13.451	(10)	.	.	Bibliotheken anderer Bildungseinrichtungen
+50	163	1.324	1.203	48	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+51		98.353	25.285	1.253	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+52		.	.	.	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+53	.	.	119	-	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+54	.	.	.	.	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+55	334	.	18.719	.	.	35.609	Parlaments-, Behörden- u. Gerichtsbibliotheken
+56	1.919	.	2.797	935	74.122	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+57	.	.	.	-	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+58	-	800	.	.	.	.	Parlaments-, Behörden- u. Gerichtsbibliotheken
+59	804	8.833	11.849	16	6.132	2.338	Parlaments-, Behörden- u. Gerichtsbibliotheken
+60	-	140	.	.	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+61	.	.	.	12	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+62	.	4.139	(9.400)	.			Bibliotheken von wissenschaftlichen Institutionen und Museen
+63	376	.	.	823	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+64	.	.	.	.	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+65	583	7.771	8.446	16	44.947	192.384	Bibliotheken von wissenschaftlichen Institutionen und Museen
+66	.	1.197	.	43	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+67	-	2.400	-	-	3.960.300	5.300	Bibliotheken von wissenschaftlichen Institutionen und Museen
+68	184	1.289	1.208	96	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+69	.	.	.	.	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+70	.	38	140	.	34.000	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+71	40	.	.	.	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+72	.	.	.	-	.	.	Bibliotheken von wissenschaftlichen Institutionen und Museen
+73	82	.	.	-	.	.	Bibliotheken von Körperschaften und Vereinen
+74	52	.	-	-	.	.	Bibliotheken von Körperschaften und Vereinen
+75	.	186	468	5	.	.	Bibliotheken von Körperschaften und Vereinen
+76	.	.	.	.	.	.	Bibliotheken von Körperschaften und Vereinen

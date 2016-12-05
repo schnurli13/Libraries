@@ -1,0 +1,992 @@
+{
+  "name": "Bibliotheken",
+  "children": [
+    {
+       "name": 1 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":11657},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":14334}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 2 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":700},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 3 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":3898},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 4 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1700},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4000}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 5 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2435},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 6 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1605},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5319}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 7 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1200},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 8 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1932},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":20257}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 9 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":201},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":49}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 10 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1098},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":24425}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 11 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":303},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":22}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 12 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":5294},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":22698}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 13 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2627},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":26695}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 14 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 15 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":392},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4050}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 16 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 17 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":246},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1240}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 18 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":4588},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21502}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 19 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":9},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4125}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 20 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":856},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4250}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 21 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":411},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":945}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 22 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1155},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3650}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 23 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":260},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":53}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 24 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":8846},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":36035}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 25 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":480},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3975}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 26 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":997},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19749}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 27 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":165},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4730}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 28 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":251},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21037}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 29 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":169},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2842}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 30 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":87},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2537}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 31 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":408},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6443}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 32 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":158},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3084}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 33 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":160},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6895}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 34 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":64},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":15509}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 35 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":81},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 36 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":165},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 37 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":197},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 38 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":215},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":156}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 39 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":155},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 40 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":112},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 41 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":89},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 42 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":116},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 43 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":169},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 44 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1020},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 45 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":79},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 46 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":540},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":762}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 47 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 48 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":37},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 49 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":47},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 50 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":12},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 51 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":368},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 52 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":6500},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":80}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 53 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":84},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 54 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 55 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2516},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":225}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 56 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":850},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 57 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":184},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 58 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":425},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 59 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":281},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":45}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 60 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":340},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 61 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":158},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 62 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1600},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 63 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":207},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":11}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 64 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":150},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1900}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 65 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":146},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":25}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 66 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":99},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4982}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 67 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":200},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 68 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1001},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 69 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":84},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":100}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 70 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":67},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":260}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 71 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":39},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":12}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 72 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":850},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 73 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":52},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 74 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":120},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 75 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":34},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         },
+{
+
+       "name": 76 ,
+        "children": [
+             {
+               "name": "Zeitungen/Zeitschriften",
+               "children": [
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                 {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                              ]
+             }
+           ]
+         }
+  ]
+}
