@@ -1,5 +1,6 @@
 var width = 960,
     height = 1160;
+    //scale0 = width/Math.PI ;
 
 var projection = d3.geo.albers()
     .center([0, 45.5])
@@ -7,6 +8,12 @@ var projection = d3.geo.albers()
     .parallels([40, 50])
     .scale(9000)
     .translate([width / 2, height / 2]);
+
+/*var zoom = d3.behavior.zoom()
+    .translate([width / 2, height / 2])
+    .scale(scale0)
+    .scaleExtent([scale0, 8 * scale0])
+    .on("zoom", zoomed);*/
 
 var path = d3.geo.path()
     .projection(projection)
@@ -19,6 +26,13 @@ var div = d3.select("body").append("div")
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
+    //.append("g");
+
+//var g = svg.append("g");
+
+
+/*svg.call(zoom)
+   .call(zoom.event);*/
 
 d3.json("data/scientific_and_special_libraries/aut.json", function(error, aut) {
     console.log(aut);
@@ -43,29 +57,31 @@ d3.json("data/scientific_and_special_libraries/aut.json", function(error, aut) {
                 .style("opacity", 0);
         });
 
-   /* svg.append("path")
-        .datum(topojson.feature(aut, aut.objects.gemeinden))
-        .attr("d", path)
-        .attr("class", "place");
+    /*for(var i = 1; i<10; i++){
+        svg.append("path")
+            .datum(topojson.merge(aut, aut.objects.gemeinden.geometries.filter(function(d) { return d.properties.iso.toString()[0] == i  })))
+            .attr("class", "bundesland")
+            .attr("d", path)
+            .on("mouseover", function(d) {
+             d3.select(this).attr({
+                  fill: "grey"
+              });
 
-    svg.selectAll(".place-label")
-        .data(topojson.feature(aut, aut.objects.gemeinden).features)
-        .enter().append("text")
-        .attr("class", "place-label")
-        .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
-        .attr("dy", ".35em")
-        .text(function(d) { return d.properties.name; });
+            })
+            .on("mouseout", function(d) {
 
-    svg.selectAll(".place-label")
-        .attr("x", function(d) { return d.geometry.coordinates[0] > 16.3 ? 6 : -6; })
-        .style("text-anchor", function(d) { return d.geometry.coordinates[0] > 16.3 ? "start" : "end"; });
+            });
+    }*/
 
-    svg.selectAll(".subunit-label")
-        .data(topojson.feature(aut, aut.objects.subunits).features)
-        .enter().append("text")
-        .attr("class", function(d) { return "subunit-label " + d.id; })
-        .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-        .attr("dy", ".35em")
-        .text(function(d) { return d.properties.name; });*/
 
 });
+
+
+/*function zoomed() {
+    projection
+        .translate(zoom.translate())
+        .scale(zoom.scale());
+
+    g.selectAll("path")
+        .attr("d", path);
+}*/

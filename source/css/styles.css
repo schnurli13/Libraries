@@ -64,3 +64,12 @@ div.tooltip {
     border-radius: 8px;
     pointer-events: none;
 }
+
+.bundesland{
+    fill: black;
+   stroke:white;
+}
+
+.grenzen{
+    color:white;
+}
