@@ -17,7 +17,14 @@
                               "name": "Medien",
                               "children": [
                                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":44185},
-                                 {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":127268}
+                                 {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":127268},
+                                 {
+                                    "name": "Laufende Zeitungen/Zeitschriften",
+                                    "children": [
+                                       {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":165},
+                                       {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4730}
+                                    ]
+                                 }
                               ]
                            },
                            {
@@ -48,7 +55,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":32848},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1391}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1391},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":81},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -78,7 +92,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1845},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1020},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -121,7 +142,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":147264},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":700},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -151,7 +179,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":924767},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1932},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":20257}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -181,7 +216,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":100789},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2314}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2314},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":165},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -211,7 +253,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51300},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":79},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -241,7 +290,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13524},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":76}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":76},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":12},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -277,7 +333,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":55101},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1042}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1042},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":251},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21037}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -318,7 +381,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":367931},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":114217}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":114217},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":3898},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -348,7 +418,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":27774},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2842}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2842},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":169},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2842}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -378,7 +455,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":209191},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5875}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5875},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":368},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -419,7 +503,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":500500},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":15000}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":15000},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1700},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4000}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -449,7 +540,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":75267},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3493}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3493},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":201},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":49}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -479,7 +577,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1128002},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28196}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28196},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1098},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":24425}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -509,7 +614,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":125071},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3184}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3184},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":197},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -539,7 +651,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":251730},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1226}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1226},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":540},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":762}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -569,7 +688,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":23000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":70}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":70},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":340},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -599,7 +725,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":92000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":158},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -640,7 +773,14 @@
                               "name": "Medien",
                               "children": [
                                  {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":100565},
-                                 {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":17078}
+                                 {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":17078},
+                                 {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":303},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":22}
+                                 ]
+                              }
                               ]
                            },
                            {
@@ -670,7 +810,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":2455306},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":78317}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":78317},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":5294},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":22698}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -700,7 +847,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":109726},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4561}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4561},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":215},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":156}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -735,7 +889,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1479}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1479},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -776,7 +937,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":752770},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16339}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16339},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2435},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -806,7 +974,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2627},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":26695}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -836,7 +1011,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2627},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":26695}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -866,7 +1048,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -896,7 +1085,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":83730},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28438}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":28438},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":246},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1240}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -926,7 +1122,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":11050},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5087}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":5087},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":87},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2537}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -956,7 +1159,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":66140},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2312}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2312},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":408},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6443}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -986,7 +1196,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51950},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":155},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1016,7 +1233,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":285990},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6565}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6565},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":112},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1046,7 +1270,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":17000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":52},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1081,7 +1312,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":0},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4224}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4224},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":392},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4050}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1122,7 +1360,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":3524172},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":275465}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":275465},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":4588},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21502}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1152,7 +1397,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":77608},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2086}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2086},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":89},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1182,7 +1434,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":293000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1600},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1223,7 +1482,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":580000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18000}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18000},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1605},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5319}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1259,7 +1525,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7478},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7659}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7659},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":37},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1289,7 +1562,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":115100},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":207},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":11}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1330,7 +1610,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":3805651},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":20879}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":20879},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":11657},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":14334}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1360,7 +1647,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":600687},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":62305}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":62305},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1200},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
 
                            ]
                         },
@@ -1391,7 +1685,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":696973},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16771}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16771},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":9},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4125}
+                                 ]
+                              }
 
                            ]
                         },
@@ -1422,7 +1723,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1457966},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":64461}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":64461},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":856},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4250}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1452,7 +1760,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":131521},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7827}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":7827},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":411},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":945}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1482,7 +1797,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":595383},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16295}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":16295},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1155},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3650}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1512,7 +1834,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":121280},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10381}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10381},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":260},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":53}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1542,7 +1871,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7161562},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":104682}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":104682},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":8846},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":36035}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1572,7 +1908,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":218805},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":480},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3975}
+                                 ]
+                              }
 
                            ]
                         },
@@ -1603,7 +1946,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":703545},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":82270}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":82270},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":997},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19749}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1633,7 +1983,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13840},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":533}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":533},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":158},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3084}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1663,7 +2020,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":26560},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4300}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4300},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":160},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6895}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1693,7 +2057,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":13898},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":64},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":15509}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1723,7 +2094,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":10948},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":116},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1753,7 +2131,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":195095},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8159}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":8159},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":169},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1783,7 +2168,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":1500000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":400}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":400},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":6500},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":80}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1813,7 +2205,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":54018},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":394}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":394},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":84},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1843,7 +2242,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":51870},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1873,7 +2279,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":795000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6316}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":6316},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2516},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":225}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1903,7 +2316,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":809000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2265}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":2265},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":850},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1933,7 +2353,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":138034},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":0},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":184},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1963,7 +2390,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":102250},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18100}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":18100},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":425},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -1993,7 +2427,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":358912},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":9}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":9},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":281},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":45}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2023,7 +2464,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":52901},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1300}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1300},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":150},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1900}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2053,7 +2501,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":45987},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":3},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":146},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":25}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2083,7 +2538,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":50000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":4},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":99},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4982}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2113,7 +2575,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":93604},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":207400}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":207400},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":200},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2143,7 +2612,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":398905},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1782}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1782},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1001},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2173,7 +2649,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":50000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10000}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":10000},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":84},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":100}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2203,7 +2686,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":7500},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1497}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":1497},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":67},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":260}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2233,7 +2723,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":8580},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":24}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":24},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":39},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":12}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2263,7 +2760,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":125720},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":850},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2293,7 +2797,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":23272},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":350}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":350},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":120},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2323,7 +2834,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":6000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":null},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":34},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2353,7 +2871,14 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":230000},
-                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":139}
+                              {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":139},
+                              {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":0},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
+                                 ]
+                              }
                            ]
                         },
                         {
@@ -2388,7 +2913,14 @@
                         "name": "Medien",
                         "children": [
                            {"name":"Buecher_Zeitungen_und_Zeitschriften_sowie_fortlaufende_Sammelwerke","size":14900},
-                           {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":146}
+                           {"name":"Digitale_Bestände:Einzeldokumente_sowie_Datenbanken","size":146},
+                           {
+                                 "name": "Laufende Zeitungen/Zeitschriften",
+                                 "children": [
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":47},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1}
+                                 ]
+                              }
                         ]
                      },
                      {
