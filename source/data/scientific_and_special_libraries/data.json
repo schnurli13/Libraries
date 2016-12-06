@@ -23,7 +23,11 @@
                            {
                               "name": "Benützung",
                               "children": [
-
+                                 {"name":"Registrierte Personen","size":835},
+                                 {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12341},
+                                 {"name":"Zugriffe auf die Website","size":0},
+                                 {"name":"Suchanfragen in Online-Katalogen","size":69077}
                               ]
                            },
                            {
@@ -48,7 +52,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":997},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":20443},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -72,7 +80,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":370},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":500},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":550},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -109,7 +121,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":800},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -133,7 +149,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":6148},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":225956},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":68286},
+                              {"name":"Zugriffe auf die Website","size":825840},
+                              {"name":"Suchanfragen in Online-Katalogen","size":10751813}
                            ]
                         },
                         {
@@ -157,7 +177,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":15687},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -181,7 +205,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":870},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":853},
+                              {"name":"Zugriffe auf die Website","size":2582},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -205,7 +233,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":163},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":1324},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1203},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -235,7 +267,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1722},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13240},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -270,7 +306,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":9039},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":5533},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":6114},
+                              {"name":"Zugriffe auf die Website","size":173904},
+                              {"name":"Suchanfragen in Online-Katalogen","size":389727}
                            ]
                         },
                         {
@@ -294,7 +334,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1705},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":60431},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25650},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -318,7 +362,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":98353},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25285},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -353,7 +401,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":6601},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":110000},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":90341},
+                              {"name":"Zugriffe auf die Website","size":1460000},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -377,7 +429,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1342},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":17140},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":95350}
                            ]
                         },
                         {
@@ -401,7 +457,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":10179},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":74560},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":1250000}
                            ]
                         },
                         {
@@ -425,7 +485,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1277},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":77942},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":21030},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -449,7 +513,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":5514},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":41515},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12077},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -473,7 +541,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":140},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -497,7 +569,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -532,7 +608,11 @@
                            {
                               "name": "Benützung",
                               "children": [
-
+                                 {"name":"Registrierte Personen","size":2454},
+                                 {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":41773},
+                                 {"name":"Zugriffe auf die Website","size":0},
+                                 {"name":"Suchanfragen in Online-Katalogen","size":356167}
                               ]
                            },
                            {
@@ -556,7 +636,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":16956},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":600256},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":311715},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":4887674}
                            ]
                         },
                         {
@@ -580,7 +664,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1234},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":53348},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -609,7 +697,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1475},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":8345},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":5795},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -644,7 +736,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1731},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":52125},
+                              {"name":"Zugriffe auf die Website","size":274736},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -668,7 +764,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":21774},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":722419},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":254736},
+                              {"name":"Zugriffe auf die Website","size":942272},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -692,7 +792,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":195000},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -716,7 +820,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":385441},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":364771},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -740,7 +848,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2747},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":60794},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25132},
+                              {"name":"Zugriffe auf die Website","size":49729},
+                              {"name":"Suchanfragen in Online-Katalogen","size":279645}
                            ]
                         },
                         {
@@ -764,7 +876,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":819},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":5448},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":7080},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -788,7 +904,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2845},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":37877},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":21301},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -812,7 +932,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2112},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":15500},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":16018},
+                              {"name":"Zugriffe auf die Website","size":75200},
+                              {"name":"Suchanfragen in Online-Katalogen","size":8138616}
                            ]
                         },
                         {
@@ -836,7 +960,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":145411},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":35763},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -860,7 +988,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":82},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -889,7 +1021,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2077},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":137787},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12562},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -924,7 +1060,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":25946},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":1931952},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":405178},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":5121298}
                            ]
                         },
                         {
@@ -948,7 +1088,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":8493},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":80184},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25890},
+                              {"name":"Zugriffe auf die Website","size":43709},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -972,7 +1116,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":4139},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":9400},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1007,7 +1155,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":7510},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":110461},
+                              {"name":"Zugriffe auf die Website","size":2000000},
+                              {"name":"Suchanfragen in Online-Katalogen","size":600000}
                            ]
                         },
                         {
@@ -1037,7 +1189,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":156},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":4500},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":11801},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1061,7 +1217,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":376},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1096,7 +1256,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":20418},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":266814},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":460315},
+                              {"name":"Zugriffe auf die Website","size":96793986},
+                              {"name":"Suchanfragen in Online-Katalogen","size":9215662}
                            ]
                         },
                         {
@@ -1121,7 +1285,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":14606},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":16510},
+                              {"name":"Zugriffe auf die Website","size":315460},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1146,7 +1314,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":8293},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":743206},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":76682},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1170,7 +1342,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":11396},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":566000},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":77961},
+                              {"name":"Zugriffe auf die Website","size":537295},
+                              {"name":"Suchanfragen in Online-Katalogen","size":1656136}
                            ]
                         },
                         {
@@ -1194,7 +1370,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2119},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":73906},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":2059},
+                              {"name":"Suchanfragen in Online-Katalogen","size":100285}
                            ]
                         },
                         {
@@ -1218,7 +1398,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":6125},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":467118},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":52403},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1242,7 +1426,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2470},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":28227},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":285026}
                            ]
                         },
                         {
@@ -1266,7 +1454,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":69943},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":2824272},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":983790},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":15797656}
                            ]
                         },
                         {
@@ -1291,7 +1483,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2354},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":93998},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":37774},
+                              {"name":"Zugriffe auf die Website","size":98623},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1315,7 +1511,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":16522},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":871224},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":168431},
+                              {"name":"Zugriffe auf die Website","size":1307963},
+                              {"name":"Suchanfragen in Online-Katalogen","size":8145573}
                            ]
                         },
                         {
@@ -1339,7 +1539,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1363,7 +1567,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":2325},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":18297},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1387,7 +1595,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":34079},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13035},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1411,7 +1623,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":646},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1740},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1435,7 +1651,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":823},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":50187},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":69388},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1459,7 +1679,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1483,7 +1707,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":119},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1507,7 +1735,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1531,7 +1763,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":334},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":18719},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":35609}
                            ]
                         },
                         {
@@ -1555,7 +1791,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":1919},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":2797},
+                              {"name":"Zugriffe auf die Website","size":74122},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1579,7 +1819,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1603,7 +1847,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":800},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1627,7 +1875,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":804},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":8833},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":11849},
+                              {"name":"Zugriffe auf die Website","size":6132},
+                              {"name":"Suchanfragen in Online-Katalogen","size":2338}
                            ]
                         },
                         {
@@ -1651,7 +1903,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1675,7 +1931,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":583},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":7771},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":8446},
+                              {"name":"Zugriffe auf die Website","size":44947},
+                              {"name":"Suchanfragen in Online-Katalogen","size":192384}
                            ]
                         },
                         {
@@ -1699,7 +1959,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":1197},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1723,7 +1987,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":2400},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":3960300},
+                              {"name":"Suchanfragen in Online-Katalogen","size":5300}
                            ]
                         },
                         {
@@ -1747,7 +2015,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":184},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":1289},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1208},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1771,7 +2043,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1795,7 +2071,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":38},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":140},
+                              {"name":"Zugriffe auf die Website","size":34000},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1819,7 +2099,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":40},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1843,7 +2127,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1867,7 +2155,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":52},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1891,7 +2183,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":186},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":468},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1915,7 +2211,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-
+                              {"name":"Registrierte Personen","size":0},
+                              {"name":"BibliotheksbesucheBenützungsfälle","size":0},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
+                              {"name":"Zugriffe auf die Website","size":0},
+                              {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
@@ -1944,7 +2244,11 @@
                      {
                         "name": "Benützung",
                         "children": [
-
+                           {"name":"Registrierte Personen","size":390},
+                           {"name":"BibliotheksbesucheBenützungsfälle","size":7579},
+                           {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13451},
+                           {"name":"Zugriffe auf die Website","size":0},
+                           {"name":"Suchanfragen in Online-Katalogen","size":0}
                         ]
                      },
                      {
