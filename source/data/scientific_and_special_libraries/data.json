@@ -764,7 +764,7 @@
          "name": "Salzburg" ,
          "children": [
             {
-               "name": "Salzburg",
+               "name": "Salzburg-Stadt",
                "children": [
                      {
                         "name": 11,
@@ -1601,7 +1601,7 @@
          "name": "Wien" ,
          "children": [
             {
-               "name": "Wien",
+               "name": "Wien-Stadt",
                "children": [
                   {
                      "name": 1,
