@@ -183,9 +183,9 @@ function getAncestors(node) {
 
 function initializeBreadcrumbTrail() {
     // Add the svg area.
-    var trail = d3.select("#sequence").append("svg:svg")
+    var trail = d3.select("#leftsidebar").append("svg:svg")
         .attr("width", width)
-        .attr("height", 50)
+        .attr("height", height)
         .attr("id", "trail");
     // Add the label at the end, for the percentage.
     trail.append("svg:text")
@@ -234,7 +234,8 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
     // Set position for entering and updating nodes.
     g.attr("transform", function(d, i) {
-        return "translate(" + i * (b.w + b.s) + ", 0)";
+        //return "translate(" + i * (b.w + b.s) + ", 0)";
+        return "translate(0, " + i * (b.h + b.s) + ")";
     });
 
     // Remove exiting nodes.
@@ -242,8 +243,10 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
     // Now move and update the percentage at the end.
     d3.select("#trail").select("#endlabel")
-        .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
-        .attr("y", b.h / 2)
+        //.attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
+        //.attr("y", b.h / 2)
+        .attr("x", b.w / 2)
+        .attr("y", (nodeArray.length + 0.5) * (b.h + b.s))
         .attr("dy", "0.35em")
         .attr("text-anchor", "middle")
         .text(percentageString);

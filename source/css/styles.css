@@ -94,6 +94,13 @@ body {
     width: 100px;
 }
 
+#leftsidebar {
+    float: left;
+    width: 210px;
+    height: 600px;
+    color: #fff !important;
+}
+
 #sequence {
     width: 600px;
     height: 70px;
@@ -106,6 +113,15 @@ body {
 #sequence text, #legend text {
     font-weight: 600;
     fill: #fff;
+}
+
+#leftsidebar text {
+    font-weight: 600;
+    fill: #fff;
+}
+
+polygon {
+    width: 500px !important;
 }
 
 #chart {
