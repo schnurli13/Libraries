@@ -118,17 +118,21 @@ function findColor(d){
 // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
 
-    var percentage = (100 * d.value / totalSize).toPrecision(3);
-    var percentageString = percentage + "%";
-    if (percentage < 0.1) {
+    //var percentage = (100 * d.value / totalSize).toPrecision(3);
+    var percentage = (d.size.toLocaleString());
+   var percentageString = percentage;
+  /*  if (percentage < 0.1) {
         percentageString = "< 0.1%";
-    }
+    }*/
+
+    d3.select("#explanation")
+        .style("visibility", "");
 
     d3.select("#percentage")
         .text(percentageString);
 
-    d3.select("#explanation")
-        .style("visibility", "");
+    d3.select("#text")
+        .text(d.name);
 
     var sequenceArray = getAncestors(d);
     console.log(sequenceArray);

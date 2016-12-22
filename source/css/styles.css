@@ -79,8 +79,7 @@ body {
     font-size: 12px;
     font-weight: 400;
     background-color: #fff;
-    width: 960px;
-    height: 700px;
+    width:100%;
     margin-top: 10px;
 }
 
@@ -90,7 +89,7 @@ body {
 }
 
 #sidebar {
-    float: right;
+    float: left;
     width: 100px;
 }
 
