@@ -194,20 +194,20 @@ function initializeBreadcrumbTrail() {
     // Add the label at the end, for the percentage.
     trail.append("svg:text")
         .attr("id", "endlabel")
-        .style("fill", "#000");
+        .style("fill", "#fff");         // DIREKTE ZAHL NICHT SICHTBAR SONST FARBE #000
 }
 
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
     var points = [];
     points.push("0,0");
-    points.push(b.w + ",0");
-    points.push(b.w + b.t + "," + (b.h / 2));
-    points.push(b.w + "," + b.h);
+    points.push(b.w+150 + ",0");
+    points.push(b.w+150 + b.t + "," + (b.h / 2));
+    points.push(b.w+150 + "," + b.h);
     points.push("0," + b.h);
-    if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
-        points.push(b.t + "," + (b.h / 2));
-    }
+    //if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
+    //    points.push(b.t + "," + (b.h / 2));
+    //}
     return points.join(" ");
 }
 
@@ -230,7 +230,7 @@ function updateBreadcrumbs(nodeArray, percentageString) {
         });
 
     entering.append("svg:text")
-        .attr("x", (b.w + b.t) / 2)
+        .attr("x", (b.w+150 + b.t) / 2)
         .attr("y", b.h / 2)
         .attr("dy", "0.35em")
         .attr("text-anchor", "middle")
