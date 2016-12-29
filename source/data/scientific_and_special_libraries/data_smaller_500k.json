@@ -178,7 +178,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":924767},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -195,8 +195,8 @@
                               {"name":"Registrierte Personen","size":6148},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":225956},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":68286},
-                              {"name":"Zugriffe auf die Website","size":825840},
-                              {"name":"Suchanfragen in Online-Katalogen","size":10751813}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -502,7 +502,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":500500},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":15000},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -519,7 +519,7 @@
                               {"name":"Registrierte Personen","size":6601},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":110000},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":90341},
-                              {"name":"Zugriffe auf die Website","size":1460000},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -576,7 +576,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1128002},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":28196},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -594,7 +594,7 @@
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":74560},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":1250000}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -809,7 +809,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":2455306},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":78317},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -824,10 +824,10 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":16956},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":600256},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":311715},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":4887674}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -936,7 +936,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":752770},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":16339},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -988,9 +988,9 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":21774},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":722419},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":254736},
-                              {"name":"Zugriffe auf die Website","size":942272},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -1213,7 +1213,7 @@
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":15500},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":16018},
                               {"name":"Zugriffe auf die Website","size":75200},
-                              {"name":"Suchanfragen in Online-Katalogen","size":8138616}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1359,7 +1359,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":3524172},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":275465},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1374,10 +1374,10 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":25946},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":1931952},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":405178},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":5121298}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1481,7 +1481,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":580000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":18000},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1498,8 +1498,8 @@
                               {"name":"Registrierte Personen","size":7510},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":110461},
-                              {"name":"Zugriffe auf die Website","size":2000000},
-                              {"name":"Suchanfragen in Online-Katalogen","size":600000}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1609,7 +1609,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":3805651},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":20879},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1626,8 +1626,8 @@
                               {"name":"Registrierte Personen","size":20418},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":266814},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":460315},
-                              {"name":"Zugriffe auf die Website","size":96793986},
-                              {"name":"Suchanfragen in Online-Katalogen","size":9215662}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1646,7 +1646,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":600687},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":62305},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1684,7 +1684,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":696973},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":16771},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1700,7 +1700,7 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":8293},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":743206},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":76682},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
@@ -1722,7 +1722,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1457966},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":64461},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1737,10 +1737,10 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":11396},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":566000},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":77961},
-                              {"name":"Zugriffe auf die Website","size":537295},
-                              {"name":"Suchanfragen in Online-Katalogen","size":1656136}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1870,7 +1870,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":7161562},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":104682},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1885,10 +1885,10 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":69943},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":2824272},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":983790},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":15797656}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1945,7 +1945,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":703545},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":82270},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1960,10 +1960,10 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":16522},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":871224},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":168431},
-                              {"name":"Zugriffe auf die Website","size":1307963},
-                              {"name":"Suchanfragen in Online-Katalogen","size":8145573}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -2167,7 +2167,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1500000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":400},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2278,7 +2278,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":795000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":6316},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2315,7 +2315,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":809000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2265},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2591,7 +2591,7 @@
                               {"name":"Registrierte Personen","size":0},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":2400},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
-                              {"name":"Zugriffe auf die Website","size":3960300},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":5300}
                            ]
                         },

@@ -1,3 +1,5 @@
+window.onload=initialize;
+
 // Dimensions of sunburst.
 var width = 750;
 var height = 600;
@@ -41,20 +43,13 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.sqrt(d.y); })
     .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
 
-// Use d3.text and d3.csv.parseRows so that we do not need to have a header
-// row, and can receive the csv as an array of arrays.
-d3.json("data/scientific_and_special_libraries/data.json", function(error, root) {
-    //console.log(root);
-    createVisualization(root);
-});
+var Json;
+
 
 // Main function to draw and set up the visualization, once we have the data.
 function createVisualization(json) {
 
-    // Basic setup of page elements.
-    initializeBreadcrumbTrail();
-    drawLegend();
-    d3.select("#togglelegend").on("click", toggleLegend);
+    d3.select('#showAll').property('checked',true);
 
     // Bounding circle underneath the sunburst, to make it easier to detect
     // when the mouse leaves the parent g.
@@ -62,14 +57,9 @@ function createVisualization(json) {
         .attr("r", radius)
         .style("opacity", 0);
 
-    // For efficiency, filter nodes to keep only those large enough to see.
-    var nodes = partition.nodes(json)
-        .filter(function(d) {
-            return (d.dx > 0.005); // 0.005 radians = 0.29 degrees
-        });
 
-    var path = vis.data([json]).selectAll("path")
-        .data(nodes)
+    var path = vis.selectAll("path")
+        .data(partition.nodes(json))
         .enter().append("svg:path")
         .attr("display", function(d) { return d.depth ? null : "none"; })
         .attr("d", arc)
@@ -81,10 +71,29 @@ function createVisualization(json) {
 
     // Add the mouseleave handler to the bounding circle.
     d3.select("#container").on("mouseleave", mouseleave);
+    compare();
 
-    // Get total size of the tree = value of root node from partition.
-    totalSize = path.node().__data__.value;
 };
+
+function drawAgain(json, option){
+    d3.selectAll('path').remove();
+    d3.select('#'+option).property('checked',true);
+
+    var path = vis.selectAll("path")
+        .data(partition.nodes(json));
+
+        path.enter().append("svg:path")
+            .attr("display", function(d) { return d.depth ? null : "none"; })
+            .attr("d", arc)
+            .attr("fill-rule", "evenodd")
+            .style("fill", function(d) { return getColor(d);
+            })
+            .style("opacity", 1);
+
+        path.on("mouseover", mouseover);
+
+    compare();
+}
 
 
 function getColor(d){
@@ -117,60 +126,64 @@ function findColor(d){
 
 // Fade all but the current sequence, and show it in the breadcrumb trail.
 function mouseover(d) {
+//console.log(d);
+        //var percentage = (100 * d.value / totalSize).toPrecision(3);
+        var percentageString = "";
+        if (d.size != undefined) {
+            percentageString = (d.size.toLocaleString());
+        }
+        /*  if (percentage < 0.1) {
+         percentageString = "< 0.1%";
+         }*/
 
-    //var percentage = (100 * d.value / totalSize).toPrecision(3);
-    var percentage = (d.size.toLocaleString());
-   var percentageString = percentage;
-  /*  if (percentage < 0.1) {
-        percentageString = "< 0.1%";
-    }*/
+        d3.select("#explanation")
+            .style("visibility", "");
 
-    d3.select("#explanation")
-        .style("visibility", "");
+        d3.select("#percentage")
+            .text(percentageString);
 
-    d3.select("#percentage")
-        .text(percentageString);
+        d3.select("#text")
+            .text(d.name);
+    if (d3.select('#filtermode').property('checked') != true) {
+        var sequenceArray = getAncestors(d);
 
-    d3.select("#text")
-        .text(d.name);
+        updateBreadcrumbs(sequenceArray, percentageString);
 
-    var sequenceArray = getAncestors(d);
-    console.log(sequenceArray);
-    updateBreadcrumbs(sequenceArray, percentageString);
+        // Fade all the segments.
+        d3.selectAll("path")
+            .style("opacity", 0.3);
 
-    // Fade all the segments.
-    d3.selectAll("path")
-        .style("opacity", 0.3);
-
-    // Then highlight only those that are an ancestor of the current segment.
-    vis.selectAll("path")
-        .filter(function(node) {
-            return (sequenceArray.indexOf(node) >= 0);
-        })
-        .style("opacity", 1);
+        // Then highlight only those that are an ancestor of the current segment.
+        vis.selectAll("path")
+            .filter(function (node) {
+                return (sequenceArray.indexOf(node) >= 0);
+            })
+            .style("opacity", 1);
+    }
 }
 
 // Restore everything to full opacity when moving off the visualization.
 function mouseleave(d) {
+    if (d3.select('#filtermode').property('checked') != true) {
+        // Hide the breadcrumb trail
+        d3.select("#trail")
+            .style("visibility", "hidden");
 
-    // Hide the breadcrumb trail
-    d3.select("#trail")
-        .style("visibility", "hidden");
+        // Deactivate all segments during transition.
+        d3.selectAll("path").on("mouseover", null);
 
-    // Deactivate all segments during transition.
-    d3.selectAll("path").on("mouseover", null);
+        // Transition each segment to full opacity and then reactivate it.
+        d3.selectAll("path")
+            .transition()
+            .duration(1000)
+            .style("opacity", 1)
+            .each("end", function () {
+                d3.select(this).on("mouseover", mouseover);
+            });
 
-    // Transition each segment to full opacity and then reactivate it.
-    d3.selectAll("path")
-        .transition()
-        .duration(1000)
-        .style("opacity", 1)
-        .each("end", function() {
-            d3.select(this).on("mouseover", mouseover);
-        });
-
-    d3.select("#explanation")
-        .style("visibility", "hidden");
+        d3.select("#explanation")
+            .style("visibility", "hidden");
+    }
 }
 
 // Given a node in a partition layout, return an array of all of its ancestor
@@ -181,6 +194,21 @@ function getAncestors(node) {
     while (current.parent) {
         path.unshift(current);
         current = current.parent;
+    }
+    return path;
+}
+
+function getChildren(node) {//rekursiv kinder holen not working
+    var path = [];
+    var current = node;
+    while (current.children) {
+        path.unshift(current);
+        /*for(var i = 0; i < current.children.length;i++ ){
+            current = current.children[i];
+            path = getChildren(current);
+        }*/
+
+
     }
     return path;
 }
@@ -284,7 +312,12 @@ function drawLegend() {
         .attr("ry", li.r)
         .attr("width", li.w)
         .attr("height", li.h)
-        .style("fill", function(d) { return d.value; });
+        .style("fill", function(d) { return d.value; })
+        .on("mouseover", function(d) {
+            highlightSection(d.key);
+        }).on("mouseout", function(d) {
+            vis.selectAll('path').style("opacity", 1);
+        });
 
     g.append("svg:text")
         .attr("x", li.w / 2)
@@ -296,9 +329,175 @@ function drawLegend() {
 
 function toggleLegend() {
     var legend = d3.select("#legend");
-    if (legend.style("visibility") == "hidden") {
+    if (d3.select('#togglelegend').property('checked') == true) {
         legend.style("visibility", "");
     } else {
         legend.style("visibility", "hidden");
     }
+}
+
+function showHelp(){
+    var help = d3.select('#help');
+    var allNodes =  d3.selectAll("path");
+    if (d3.select('#filtermode').property('checked') == true) {
+        help.style("visibility", "");
+        allNodes.style("opacity", 0.3);
+    } else {
+        help.style("visibility", "hidden");
+        d3.selectAll('.compare').property('checked',false);
+        allNodes.style("opacity", 1);
+    }
+}
+
+function highlightSection(string){
+    var allNodes =  d3.selectAll("path");
+    allNodes.style("opacity", 0.3);
+    var node = [];
+    node = partition.nodes(Json)
+        .filter(function(d) {
+                return (d.name == string);
+        });
+
+    var sequenceArray =[];
+    console.log(string);
+      /*  var ancestors = getChildren(node[i]);
+        for(var j = 0; j<ancestors.length; j++){
+            sequenceArray.push(ancestors[j]);
+        }
+
+    sequenceArray = sequenceArray.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
+
+    allNodes.filter(function (node) {
+        return (sequenceArray.indexOf(node) >= 0);
+    })
+        .style("opacity", 1);*/
+}
+
+function compare(){
+    var allNodes =  d3.selectAll("path");
+
+    if (d3.select('#filtermode').property('checked') != true) {
+        allNodes.style("opacity", 1);
+    }else{
+        allNodes.style("opacity", 0.3);
+        var nodes = [];
+        if (d3.select('#medien').property('checked') == true){
+             nodes = partition.nodes(Json)
+                .filter(function(d) {
+                     if(d.parent != undefined && d.parent.parent != undefined){
+
+                             return (d.parent.name == "Medien"|| d.parent.parent.name == "Medien");
+
+
+                     }
+                });
+        }
+        if (d3.select('#benützung').property('checked') == true){
+             nodes = partition.nodes(Json)
+                .filter(function(d) {
+                     if(d.parent != undefined){
+                         return (d.parent.name == "Benützung");
+                     }
+                });
+        }
+        if (d3.select('#neuzugänge').property('checked') == true){
+            nodes = partition.nodes(Json)
+                .filter(function(d) {
+                    if(d.parent != undefined){
+                        return (d.parent.name == "Neuzugänge");
+                    }
+                });
+         //   console.log(nodes);
+        }
+
+
+        var sequenceArray =[];
+
+        for(var i = 0; i < nodes.length; i++){
+            var ancestors = getAncestors(nodes[i]);
+            for(var j = 0; j<ancestors.length; j++){
+                sequenceArray.push(ancestors[j]);
+            }
+        }
+        sequenceArray = sequenceArray.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
+
+        allNodes.filter(function (node) {
+                return (sequenceArray.indexOf(node) >= 0);
+            })
+            .style("opacity", 1);
+
+    }
+
+}
+
+
+
+function initialize(){
+    // Use d3.text and d3.csv.parseRows so that we do not need to have a header
+// row, and can receive the csv as an array of arrays.
+    d3.json("data/scientific_and_special_libraries/data.json", function(error, root) {
+        //console.log(root);
+        Json = root;
+        createVisualization(Json);
+    });
+
+    d3.selectAll('#showAll').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showAll");
+
+        });
+    });
+    d3.selectAll('#showBigger500k').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_bigger_500k.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showBigger500k");
+        });
+    });
+    d3.selectAll('#showBigger5m').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_bigger_5m.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showBigger5m");
+        });
+    });
+    d3.selectAll('#showLower500k').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_smaller_500k.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showLower500k");
+
+        });
+    });
+    d3.selectAll('#showLower100k').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_smaller_100k.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showLower100k");
+
+        });
+    });
+    d3.selectAll('#showLower10k').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_smaller_10k.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showLower10k");
+
+        });
+    });
+    d3.selectAll('#showLower1k').on("click", function(){
+        d3.json("data/scientific_and_special_libraries/data_smaller_1k.json", function(error, root) {
+            Json = root;
+            drawAgain(Json,"showLower1k");
+
+        });
+    });
+
+    // Basic setup of page elements.
+    initializeBreadcrumbTrail();
+    drawLegend();
+
+    d3.select("#togglelegend").on("click", toggleLegend);
+    d3.select('#filtermode').on("click", showHelp);
+    d3.selectAll('.compare').on("click", compare);
+
+    toggleLegend();
+    showHelp();
+
 }

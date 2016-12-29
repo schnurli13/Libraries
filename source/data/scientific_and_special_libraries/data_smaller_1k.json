@@ -16,13 +16,13 @@
                            {
                               "name": "Medien",
                               "children": [
-                                 {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":44185},
-                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":127268},
+                                 {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                                  {
                                     "name": "Laufende Zeitungen/Zeitschriften",
                                     "children": [
                                        {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":165},
-                                       {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4730}
+                                       {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                     ]
                                  }
                               ]
@@ -32,16 +32,16 @@
                               "children": [
                                  {"name":"Registrierte Personen","size":835},
                                  {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12341},
+                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                                  {"name":"Zugriffe auf die Website","size":0},
-                                 {"name":"Suchanfragen in Online-Katalogen","size":69077}
+                                 {"name":"Suchanfragen in Online-Katalogen","size":null}
                               ]
                            },
                            {
                               "name": "Neuzugänge",
                               "children": [
-                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":3868},
-                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":122944},
+                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                                  {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                               ]
                            }
@@ -54,8 +54,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":32848},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1391},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -70,7 +70,7 @@
                            "children": [
                               {"name":"Registrierte Personen","size":997},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":20443},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -91,12 +91,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1845},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1020},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
                                  ]
                               }
@@ -141,7 +141,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":147264},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -165,7 +165,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1422},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":20.0}
                            ]
@@ -178,13 +178,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":924767},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1932},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":20257}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -192,19 +192,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":6148},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":225956},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":68286},
-                              {"name":"Zugriffe auf die Website","size":825840},
-                              {"name":"Suchanfragen in Online-Katalogen","size":10751813}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
                               {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":5536},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":1075.1}
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -215,8 +215,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":100789},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2314},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -231,7 +231,7 @@
                            "children": [
                               {"name":"Registrierte Personen","size":0},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":15687},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -239,7 +239,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":2261},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":132},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":29.9}
                            ]
@@ -252,7 +252,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":51300},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":3},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -269,7 +269,7 @@
                               {"name":"Registrierte Personen","size":0},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":870},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":853},
-                              {"name":"Zugriffe auf die Website","size":2582},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -289,7 +289,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":13524},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":76},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -304,8 +304,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":163},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":1324},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1203},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -332,13 +332,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":55101},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1042},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":251},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21037}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -346,9 +346,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1722},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13240},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -356,7 +356,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":2831},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":59},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -380,12 +380,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":367931},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":114217},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":3898},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
                                  ]
                               }
@@ -394,18 +394,18 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":9039},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":5533},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":6114},
-                              {"name":"Zugriffe auf die Website","size":173904},
-                              {"name":"Suchanfragen in Online-Katalogen","size":389727}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":13092},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":3606},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":122.3}
                            ]
                         }
@@ -417,13 +417,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":27774},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2842},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":169},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2842}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -431,9 +431,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1705},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":60431},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25650},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -441,7 +441,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":3689},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":665},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":138.8}
                            ]
@@ -454,8 +454,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":209191},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":5875},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -469,8 +469,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":98353},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25285},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -478,8 +478,8 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":3154},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1156},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":86.3}
                            ]
                         }
@@ -502,13 +502,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":500500},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":15000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1700},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4000}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -516,18 +516,18 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":6601},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":110000},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":90341},
-                              {"name":"Zugriffe auf die Website","size":1460000},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":10530},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2600},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":313.2}
                            ]
                         }
@@ -539,8 +539,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":75267},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":3493},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -553,11 +553,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1342},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":17140},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":95350}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -576,13 +576,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1128002},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":28196},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1098},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":24425}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -590,19 +590,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":10179},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":74560},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":1250000}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":12611},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":4271},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":2635.8}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -613,8 +613,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":125071},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":3184},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -627,9 +627,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1277},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":77942},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":21030},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -637,7 +637,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":2858},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":111},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":50.0}
                            ]
@@ -650,8 +650,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":251730},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1226},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -664,9 +664,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":5514},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":41515},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12077},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -674,7 +674,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":5875},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":21},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":123.0}
                            ]
@@ -687,7 +687,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":23000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":70},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -724,7 +724,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":92000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -748,7 +748,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1000},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":17.5}
                            ]
@@ -772,8 +772,8 @@
                            {
                               "name": "Medien",
                               "children": [
-                                 {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":100565},
-                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":17078},
+                                 {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                                 {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                                  {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -786,17 +786,17 @@
                            {
                               "name": "Benützung",
                               "children": [
-                                 {"name":"Registrierte Personen","size":2454},
+                                 {"name":"Registrierte Personen","size":null},
                                  {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":41773},
+                                 {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                                  {"name":"Zugriffe auf die Website","size":0},
-                                 {"name":"Suchanfragen in Online-Katalogen","size":356167}
+                                 {"name":"Suchanfragen in Online-Katalogen","size":null}
                               ]
                            },
                            {
                               "name": "Neuzugänge",
                               "children": [
-                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1603},
+                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                                  {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":547},
                                  {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":144.5}
                               ]
@@ -809,13 +809,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":2455306},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":78317},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":5294},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":22698}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -823,19 +823,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":16956},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":600256},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":311715},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":4887674}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":47976},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":29386},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":4772.8}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -846,8 +846,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":109726},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":4561},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -860,9 +860,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1234},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":53348},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -870,8 +870,8 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":9632},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1479},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":43.8}
                            ]
                         }
@@ -889,7 +889,7 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":0},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1479},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -902,9 +902,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1475},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":8345},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":5795},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -913,8 +913,8 @@
                            "name": "Neuzugänge",
                            "children": [
                               {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":20},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1479},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":16168}
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -936,12 +936,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":752770},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":16339},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2435},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19}
                                  ]
                               }
@@ -950,18 +950,18 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1731},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":52125},
-                              {"name":"Zugriffe auf die Website","size":274736},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":6193},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2515},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":326.8}
                            ]
                         }
@@ -978,8 +978,8 @@
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2627},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":26695}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -987,19 +987,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":21774},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":722419},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":254736},
-                              {"name":"Zugriffe auf die Website","size":942272},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":33668},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":4346.3}
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1015,8 +1015,8 @@
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2627},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":26695}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1025,7 +1025,7 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":195000},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
@@ -1036,7 +1036,7 @@
                            "children": [
                               {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":1345.0}
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1062,9 +1062,9 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":385441},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
-                              {"name":"Zugriffe auf die Website","size":364771},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -1073,7 +1073,7 @@
                            "children": [
                               {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":2683.4}
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1084,13 +1084,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":83730},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":28438},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":246},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1240}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1098,17 +1098,17 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2747},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":60794},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25132},
-                              {"name":"Zugriffe auf die Website","size":49729},
-                              {"name":"Suchanfragen in Online-Katalogen","size":279645}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":3732},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":882},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":361.6}
                            ]
@@ -1121,13 +1121,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":11050},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":5087},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":87},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":2537}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1136,8 +1136,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":819},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":5448},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":7080},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1158,13 +1158,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":66140},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2312},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":408},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6443}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1172,9 +1172,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2845},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":37877},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":21301},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1182,7 +1182,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1556},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":178},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1195,7 +1195,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":51950},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1209,11 +1209,11 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2112},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":15500},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":16018},
-                              {"name":"Zugriffe auf die Website","size":75200},
-                              {"name":"Suchanfragen in Online-Katalogen","size":8138616}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
@@ -1232,8 +1232,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":285990},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":6565},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -1247,8 +1247,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":145411},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":35763},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1256,7 +1256,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":5754},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":632},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":32.7}
                            ]
@@ -1269,7 +1269,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":17000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1293,7 +1293,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":17000},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":6.0}
                            ]
@@ -1312,12 +1312,12 @@
                            "name": "Medien",
                            "children": [
                               {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":0},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":4224},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":392},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4050}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1325,9 +1325,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2077},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":137787},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":12562},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1335,7 +1335,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":8396},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":18},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":888.9}
                            ]
@@ -1359,13 +1359,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":3524172},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":275465},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":4588},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":21502}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1373,19 +1373,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":25946},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":1931952},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":405178},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":5121298}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":39898},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":5100},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":5525.1}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1396,8 +1396,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":77608},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2086},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -1410,17 +1410,17 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":8493},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":80184},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":25890},
-                              {"name":"Zugriffe auf die Website","size":43709},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1632},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":475},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1433,12 +1433,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":293000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1600},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
                                  ]
                               }
@@ -1448,8 +1448,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":4139},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":9400},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1457,7 +1457,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":13157},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":54.0}
                            ]
@@ -1481,13 +1481,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":580000},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":18000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1605},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5319}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1495,18 +1495,18 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":7510},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":110461},
-                              {"name":"Zugriffe auf die Website","size":2000000},
-                              {"name":"Suchanfragen in Online-Katalogen","size":600000}
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":9165},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2565},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":769.1}
                            ]
                         }
@@ -1524,8 +1524,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":7478},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":7659},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -1539,8 +1539,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":156},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":4500},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":11801},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1561,7 +1561,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":115100},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -1585,7 +1585,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1491},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":48.9}
                            ]
@@ -1609,13 +1609,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":3805651},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":20879},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":11657},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":14334}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1623,19 +1623,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":20418},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":266814},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":460315},
-                              {"name":"Zugriffe auf die Website","size":96793986},
-                              {"name":"Suchanfragen in Online-Katalogen","size":9215662}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":37775},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2144},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":1094.0}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                         ]
@@ -1646,12 +1646,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":600687},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":62305},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1200},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":0}
                                  ]
                               }
@@ -1662,17 +1662,17 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":14606},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":16510},
-                              {"name":"Zugriffe auf die Website","size":315460},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":8123},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1000},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":475.6}
                            ]
                         }
@@ -1684,13 +1684,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":696973},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":16771},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":9},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4125}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
 
@@ -1699,9 +1699,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":8293},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":743206},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":76682},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1709,9 +1709,9 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":7297},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2012},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":2710.1}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1722,13 +1722,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1457966},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":64461},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":856},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4250}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1736,19 +1736,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":11396},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":566000},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":77961},
-                              {"name":"Zugriffe auf die Website","size":537295},
-                              {"name":"Suchanfragen in Online-Katalogen","size":1656136}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":17116},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":14487},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":3524.1}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1759,8 +1759,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":131521},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":7827},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -1773,17 +1773,17 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2119},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":73906},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
-                              {"name":"Zugriffe auf die Website","size":2059},
-                              {"name":"Suchanfragen in Online-Katalogen","size":100285}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":2903},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":234},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":189.9}
                            ]
@@ -1796,13 +1796,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":595383},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":16295},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1155},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3650}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1810,9 +1810,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":6125},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":467118},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":52403},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -1820,9 +1820,9 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":8369},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":782},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":1188.0}
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1833,8 +1833,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":121280},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":10381},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -1847,17 +1847,17 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2470},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":28227},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":285026}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":4162},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":369},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":188.9}
                            ]
@@ -1870,13 +1870,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":7161562},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":104682},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":8846},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":36035}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1884,19 +1884,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":69943},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":2824272},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":983790},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":15797656}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":85189},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":44780},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":8290.7}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1907,13 +1907,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":218805},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":480},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3975}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
 
@@ -1922,17 +1922,17 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2354},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":93998},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":37774},
-                              {"name":"Zugriffe auf die Website","size":98623},
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":2866},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":838.6}
                            ]
@@ -1945,13 +1945,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":703545},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":82270},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":997},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":19749}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -1959,19 +1959,19 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":16522},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":871224},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":168431},
-                              {"name":"Zugriffe auf die Website","size":1307963},
-                              {"name":"Suchanfragen in Online-Katalogen","size":8145573}
+                              {"name":"Registrierte Personen","size":null},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":29080},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":23151},
-                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":2703.2}
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
+                              {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
                         }
                      ]
@@ -1982,13 +1982,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":13840},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":533},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":158},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":3084}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -2006,7 +2006,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1354},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2019,13 +2019,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":26560},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":4300},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":160},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":6895}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -2033,9 +2033,9 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":2325},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":18297},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -2043,8 +2043,8 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1344},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1008},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
                         }
@@ -2056,13 +2056,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":13898},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":8},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":64},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":15509}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -2071,8 +2071,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":34079},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13035},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -2093,7 +2093,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":10948},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2109,7 +2109,7 @@
                            "children": [
                               {"name":"Registrierte Personen","size":646},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1740},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -2130,8 +2130,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":195095},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":8159},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2145,8 +2145,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":823},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":50187},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":69388},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -2154,7 +2154,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":4050},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":275},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":43.8}
                            ]
@@ -2167,12 +2167,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":1500000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":400},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":6500},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":80}
                                  ]
                               }
@@ -2204,7 +2204,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":54018},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":394},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2241,7 +2241,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":51870},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2278,12 +2278,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":795000},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":6316},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":2516},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":225}
                                  ]
                               }
@@ -2294,15 +2294,15 @@
                            "children": [
                               {"name":"Registrierte Personen","size":334},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":18719},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
-                              {"name":"Suchanfragen in Online-Katalogen","size":35609}
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":4514},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":325},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2315,8 +2315,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":809000},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2265},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2329,10 +2329,10 @@
                         {
                            "name": "Benützung",
                            "children": [
-                              {"name":"Registrierte Personen","size":1919},
+                              {"name":"Registrierte Personen","size":null},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":0},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":2797},
-                              {"name":"Zugriffe auf die Website","size":74122},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -2352,7 +2352,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":138034},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2389,8 +2389,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":102250},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":18100},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2426,7 +2426,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":358912},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":9},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2441,16 +2441,16 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":804},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":8833},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":11849},
-                              {"name":"Zugriffe auf die Website","size":6132},
-                              {"name":"Suchanfragen in Online-Katalogen","size":2338}
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":3681},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":107.0}
                            ]
@@ -2463,13 +2463,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":52901},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1300},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":150},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":1900}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -2500,7 +2500,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":45987},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":3},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2515,16 +2515,16 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":583},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":7771},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":8446},
-                              {"name":"Zugriffe auf die Website","size":44947},
-                              {"name":"Suchanfragen in Online-Katalogen","size":192384}
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1900},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":48.2}
                            ]
@@ -2537,13 +2537,13 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":50000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":4},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
                                     {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":99},
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":4982}
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":null}
                                  ]
                               }
                            ]
@@ -2552,7 +2552,7 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":1197},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
@@ -2574,8 +2574,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":93604},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":207400},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2589,17 +2589,17 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":0},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":2400},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":0},
-                              {"name":"Zugriffe auf die Website","size":3960300},
-                              {"name":"Suchanfragen in Online-Katalogen","size":5300}
+                              {"name":"Zugriffe auf die Website","size":null},
+                              {"name":"Suchanfragen in Online-Katalogen","size":null}
                            ]
                         },
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1654},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":17750},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
                         }
@@ -2611,12 +2611,12 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":398905},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1782},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
-                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":1001},
+                                    {"name":"laufend geführte Zeitungen/Zeitschriften gedruckt","size":null},
                                     {"name":"laufend geführte Zeitungen/Zeitschriften elektronisch","size":5}
                                  ]
                               }
@@ -2626,8 +2626,8 @@
                            "name": "Benützung",
                            "children": [
                               {"name":"Registrierte Personen","size":184},
-                              {"name":"Bibliotheksbesuche Benützungsfälle","size":1289},
-                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":1208},
+                              {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                              {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                               {"name":"Zugriffe auf die Website","size":0},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
@@ -2635,7 +2635,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":4409},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":399},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2648,8 +2648,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":50000},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":10000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2672,7 +2672,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1000},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2685,8 +2685,8 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":7500},
-                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1497},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
+                              {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
                                  "children": [
@@ -2702,7 +2702,7 @@
                               {"name":"Registrierte Personen","size":0},
                               {"name":"Bibliotheksbesuche Benützungsfälle","size":38},
                               {"name":"Benützte Dokumente ohne Fristverlängerungen","size":140},
-                              {"name":"Zugriffe auf die Website","size":34000},
+                              {"name":"Zugriffe auf die Website","size":null},
                               {"name":"Suchanfragen in Online-Katalogen","size":0}
                            ]
                         },
@@ -2722,7 +2722,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":8580},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":24},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2759,7 +2759,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":125720},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2783,7 +2783,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1779},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":44.1}
                            ]
@@ -2796,7 +2796,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":23272},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":350},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2833,7 +2833,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":6000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2870,7 +2870,7 @@
                         {
                            "name": "Medien",
                            "children": [
-                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":230000},
+                              {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":139},
                               {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2912,7 +2912,7 @@
                      {
                         "name": "Medien",
                         "children": [
-                           {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":14900},
+                           {"name":"Bücher, Zeitungen, Zeitschriften & Sammelwerke","size":null},
                            {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":146},
                            {
                                  "name": "Laufende Zeitungen/Zeitschriften",
@@ -2927,8 +2927,8 @@
                         "name": "Benützung",
                         "children": [
                            {"name":"Registrierte Personen","size":390},
-                           {"name":"Bibliotheksbesuche Benützungsfälle","size":7579},
-                           {"name":"Benützte Dokumente ohne Fristverlängerungen","size":13451},
+                           {"name":"Bibliotheksbesuche Benützungsfälle","size":null},
+                           {"name":"Benützte Dokumente ohne Fristverlängerungen","size":null},
                            {"name":"Zugriffe auf die Website","size":0},
                            {"name":"Suchanfragen in Online-Katalogen","size":0}
                         ]
@@ -2936,7 +2936,7 @@
                      {
                         "name": "Neuzugänge",
                         "children": [
-                           {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":1420},
+                           {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
                            {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":102},
                            {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                         ]
