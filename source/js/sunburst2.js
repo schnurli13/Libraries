@@ -224,7 +224,7 @@ function getChildren(node,path) {
 
 function initializeBreadcrumbTrail() {
     // Add the svg area.
-    var trail = d3.select("#leftsidebar").append("svg:svg")
+    var trail = d3.select("#leftsidebarInner").append("svg:svg")
         .attr("width", width)
         .attr("height", height)
         .attr("id", "trail");
