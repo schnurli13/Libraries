@@ -88,6 +88,8 @@ function drawAgain(json, option){
         .data(partition.nodes(json));
 
         path.enter().append("svg:path")
+            .transition()
+            .duration(1000)
             .attr("display", function(d) { return d.depth ? null : "none"; })
             .attr("d", arc)
             .attr("fill-rule", "evenodd")
