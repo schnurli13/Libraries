@@ -71,7 +71,12 @@ function createVisualization(json) {
 
     // Add the mouseleave handler to the bounding circle.
     d3.select("#container").on("mouseleave", mouseleave);
-    compare();
+    d3.selectAll('.compare').each(function(){
+        if(this.checked == true){
+            compare(this,"init");
+        }
+    });
+
 
 };
 
@@ -92,7 +97,12 @@ function drawAgain(json, option){
 
         path.on("mouseover", mouseover);
 
-    compare();
+    d3.selectAll('.compare').each(function(){
+        if(this.checked == true){
+            compare(this,"init");
+        }
+    });
+
 }
 
 
@@ -198,17 +208,16 @@ function getAncestors(node) {
     return path;
 }
 
-function getChildren(node) {//rekursiv kinder holen not working
-    var path = [];
+
+function getChildren(node,path) {
     var current = node;
-    while (current.children) {
-        path.unshift(current);
-        /*for(var i = 0; i < current.children.length;i++ ){
-            current = current.children[i];
-            path = getChildren(current);
-        }*/
-
-
+    path.push(current);
+    if (current.children != undefined) {
+        console.log(current.children);
+            for(var i = 0; i < current.children.length; i++ ){
+                var currentneu = current.children[i];
+                path = getChildren(currentneu,path);
+            }
     }
     return path;
 }
@@ -340,11 +349,13 @@ function showHelp(){
     var help = d3.select('#help');
     var allNodes =  d3.selectAll("path");
     if (d3.select('#filtermode').property('checked') == true) {
-        help.style("visibility", "");
+       //help.style("visibility", "");
+        enableMainRadios();
         allNodes.style("opacity", 0.3);
     } else {
-        help.style("visibility", "hidden");
-        d3.selectAll('.compare').property('checked',false);
+        //help.style("visibility", "hidden");
+        disableMainRadios();
+        resetRadios();
         allNodes.style("opacity", 1);
     }
 }
@@ -359,68 +370,83 @@ function highlightSection(string){
         });
 
     var sequenceArray =[];
-    console.log(string);
-      /*  var ancestors = getChildren(node[i]);
-        for(var j = 0; j<ancestors.length; j++){
-            sequenceArray.push(ancestors[j]);
-        }
-
-    sequenceArray = sequenceArray.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
+    sequenceArray = getChildren(node[0],sequenceArray);
 
     allNodes.filter(function (node) {
         return (sequenceArray.indexOf(node) >= 0);
     })
-        .style("opacity", 1);*/
+        .style("opacity", 1);
 }
 
-function compare(){
-    var allNodes =  d3.selectAll("path");
+function disableMainRadios(){
+    d3.select('#medien').property("disabled",true);
+    d3.select('#benützung').property("disabled",true);
+    d3.select('#neuzugänge').property("disabled",true);
+}
 
+function enableMainRadios(){
+    d3.select('#medien').property("disabled",false);
+    d3.select('#benützung').property("disabled",false);
+    d3.select('#neuzugänge').property("disabled",false);
+}
+
+function resetRadios(){
+    d3.selectAll('.compare').property('checked',false);
+    d3.selectAll('.sublist').selectAll('.compare').property('disabled', true);
+}
+
+
+function resetSubRadios(){
+    d3.selectAll('.sub').property('checked',false);
+    d3.selectAll('.sub').property('disabled',true);
+}
+
+function enableSubRadios(value){
+    var group = d3.select('#sublist'+value);
+    group.selectAll('.compare').property('disabled', false);
+}
+
+function compare(element,init){
+    var allNodes =  d3.selectAll("path");
+    var id = "";
+    var value = "";
+    if(element != ""){
+        id = element.id;
+        value= element.value;
+    }
     if (d3.select('#filtermode').property('checked') != true) {
         allNodes.style("opacity", 1);
     }else{
         allNodes.style("opacity", 0.3);
         var nodes = [];
-        if (d3.select('#medien').property('checked') == true){
-             nodes = partition.nodes(Json)
-                .filter(function(d) {
-                     if(d.parent != undefined && d.parent.parent != undefined){
 
-                             return (d.parent.name == "Medien"|| d.parent.parent.name == "Medien");
+        //find nodes with ticked value
+        nodes = partition.nodes(Json)
+            .filter(function(d) {
+                if(d.parent != undefined && d.parent.parent != undefined){
+                    return (d.name == value||d.parent.name == value|| d.parent.parent.name == value);
+                }
+            });
 
-
-                     }
-                });
-        }
-        if (d3.select('#benützung').property('checked') == true){
-             nodes = partition.nodes(Json)
-                .filter(function(d) {
-                     if(d.parent != undefined){
-                         return (d.parent.name == "Benützung");
-                     }
-                });
-        }
-        if (d3.select('#neuzugänge').property('checked') == true){
-            nodes = partition.nodes(Json)
-                .filter(function(d) {
-                    if(d.parent != undefined){
-                        return (d.parent.name == "Neuzugänge");
-                    }
-                });
-         //   console.log(nodes);
+        if(value == "Medien" || value == "Benützung" || value == "Neuzugänge"){
+            if(init != "init"){
+                resetSubRadios();
+            }
+            enableSubRadios(value);
         }
 
-
+        //find all parents to highlight them as well
         var sequenceArray =[];
-
         for(var i = 0; i < nodes.length; i++){
             var ancestors = getAncestors(nodes[i]);
             for(var j = 0; j<ancestors.length; j++){
                 sequenceArray.push(ancestors[j]);
             }
         }
+        //make it the array unqiue to avoid double highlighting
         sequenceArray = sequenceArray.filter(function(item, i, ar){ return ar.indexOf(item) === i; });
 
+        //highlight selected nodes
         allNodes.filter(function (node) {
                 return (sequenceArray.indexOf(node) >= 0);
             })
@@ -495,7 +521,10 @@ function initialize(){
 
     d3.select("#togglelegend").on("click", toggleLegend);
     d3.select('#filtermode').on("click", showHelp);
-    d3.selectAll('.compare').on("click", compare);
+    d3.selectAll('.compare').on("click", function(e){
+        compare(this,"");
+        //console.log(this);
+    });
 
     toggleLegend();
     showHelp();

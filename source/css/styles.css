@@ -92,7 +92,8 @@ body {
 
 #sidebar {
     float: left;
-    width: 100px;
+    width: 150px;
+    margin-top:30px;
 }
 
 
@@ -151,9 +152,13 @@ polygon {
 
 #filterTopics{
     float: left;
-    width:150px;
+    margin-bottom:30px;
 }
 #filterDataAmount{
     float:left;
-    width:200px;
+    width:250px;
+}
+
+.sublist{
+    margin-left:20px;
 }
