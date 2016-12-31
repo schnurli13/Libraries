@@ -10,7 +10,7 @@
                "children": [
 
                   {
-                     "name": 27,
+                     "name": "FH Eisenstadt",
                      "children": [
 
                            {
@@ -40,7 +40,7 @@
                            {
                               "name": "Neuzugänge",
                               "children": [
-                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                                  {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                                  {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                               ]
@@ -49,7 +49,7 @@
                      ]
                   },
                   {
-                     "name": 35,
+                     "name": "Pädagogische Hochschule Burgenland",
                      "children": [
                         {
                            "name": "Medien",
@@ -78,7 +78,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":839},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":839},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":27.5}
                            ]
@@ -86,7 +86,7 @@
                      ]
                   },
                   {
-                     "name": 44,
+                     "name": "Joseph Haydn Konservatorium des Landes Burgenland",
                      "children": [
                         {
                            "name": "Medien",
@@ -115,7 +115,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":320},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":320},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -165,7 +165,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":20.0}
                            ]
@@ -173,7 +173,7 @@
                      ]
                   },
                   {
-                     "name": 8,
+                     "name": "Universität Klagenfurt",
                      "children": [
                         {
                            "name": "Medien",
@@ -202,7 +202,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -210,7 +210,7 @@
                      ]
                   },
                   {
-                     "name": 36,
+                     "name": "Pädagogische Hochschule Kärnten",
                      "children": [
                         {
                            "name": "Medien",
@@ -239,7 +239,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":132},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":29.9}
                            ]
@@ -247,7 +247,7 @@
                      ]
                   },
                   {
-                     "name": 45,
+                     "name": "Diözesanbibliothek Klagenfurt",
                      "children": [
                         {
                            "name": "Medien",
@@ -276,7 +276,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":400},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":400},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -284,7 +284,7 @@
                      ]
                   },
                   {
-                     "name": 50,
+                     "name": "Amtsbibliothek des Landesschulrates für Kärnten",
                      "children": [
                         {
                            "name": "Medien",
@@ -313,7 +313,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":164},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":164},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -327,7 +327,7 @@
                "name": "Villach",
                "children": [
                   {
-                     "name": 28,
+                     "name": "FH Villach",
                      "children": [
                         {
                            "name": "Medien",
@@ -356,7 +356,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":59},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -375,7 +375,7 @@
                "name": "St. Pölten",
                "children": [
                   {
-                     "name": 3,
+                     "name": "Niederösterreichische Landesbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -404,7 +404,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":122.3}
                            ]
@@ -412,7 +412,7 @@
                      ]
                   },
                   {
-                     "name": 29,
+                     "name": "FH St. Pölten",
                      "children": [
                         {
                            "name": "Medien",
@@ -441,7 +441,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":665},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":138.8}
                            ]
@@ -449,7 +449,7 @@
                      ]
                   },
                   {
-                     "name": 51,
+                     "name": "Bundesstaatl. Päd. Bib. beim Landesschulrat für NÖ",
                      "children": [
                         {
                            "name": "Medien",
@@ -478,7 +478,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":86.3}
                            ]
@@ -497,7 +497,7 @@
                "name": "Linz",
                "children": [
                   {
-                     "name": 4,
+                     "name": "Oberösterreichische Landesbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -526,7 +526,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":313.2}
                            ]
@@ -534,7 +534,7 @@
                      ]
                   },
                   {
-                     "name": 9,
+                     "name": "Kunstuniverisität Linz",
                      "children": [
                         {
                            "name": "Medien",
@@ -563,7 +563,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":406},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":85.6}
                            ]
@@ -571,7 +571,7 @@
                      ]
                   },
                   {
-                     "name": 10,
+                     "name": "Johannes Kepler Universität Linz",
                      "children": [
                         {
                            "name": "Medien",
@@ -600,7 +600,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -608,7 +608,7 @@
                      ]
                   },
                   {
-                     "name": 37,
+                     "name": "Pädagogische Hochschule Oberösterreich",
                      "children": [
                         {
                            "name": "Medien",
@@ -637,7 +637,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":111},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":50.0}
                            ]
@@ -645,7 +645,7 @@
                      ]
                   },
                   {
-                     "name": 46,
+                     "name": "Diözesan-/Universitätsbib. Kath. Privat-Universität Linz",
                      "children": [
                         {
                            "name": "Medien",
@@ -674,7 +674,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":21},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":123.0}
                            ]
@@ -682,7 +682,7 @@
                      ]
                   },
                   {
-                     "name": 60,
+                     "name": "Adalbert-Stifter Institut",
                      "children": [
                         {
                            "name": "Medien",
@@ -711,7 +711,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":19.3}
                            ]
@@ -719,7 +719,7 @@
                      ]
                   },
                   {
-                     "name": 61,
+                     "name": "Oberösterreichisches Landesarchiv",
                      "children": [
                         {
                            "name": "Medien",
@@ -748,7 +748,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":17.5}
                            ]
@@ -767,7 +767,7 @@
                "name": "Salzburg-Stadt",
                "children": [
                      {
-                        "name": 11,
+                        "name": "Universität Mozarteum Salzburg",
                         "children": [
                            {
                               "name": "Medien",
@@ -796,7 +796,7 @@
                            {
                               "name": "Neuzugänge",
                               "children": [
-                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                                 {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                                  {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":547},
                                  {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":144.5}
                               ]
@@ -804,7 +804,7 @@
                         ]
                      },
                   {
-                     "name": 12,
+                     "name": "Universität Salzburg",
                      "children": [
                         {
                            "name": "Medien",
@@ -833,7 +833,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -841,7 +841,7 @@
                      ]
                   },
                   {
-                     "name": 38,
+                     "name": "Pädagogische Hochschule Salzburg",
                      "children": [
                         {
                            "name": "Medien",
@@ -870,7 +870,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":43.8}
                            ]
@@ -883,7 +883,7 @@
                "name": "St.Wolfgang",
                "children": [
                   {
-                     "name": 47,
+                     "name": "Bundeseinrichtung für Erwachsenenbildung",
                      "children": [
                         {
                            "name": "Medien",
@@ -912,7 +912,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":20},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":20},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -931,7 +931,7 @@
                "name": "Graz",
                "children": [
                   {
-                     "name": 5,
+                     "name": "Steiermärkische Landesbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -960,7 +960,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":326.8}
                            ]
@@ -968,7 +968,7 @@
                      ]
                   },
                   {
-                     "name": 13,
+                     "name": "Karl-Franzens-Universität Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -997,7 +997,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1005,7 +1005,7 @@
                      ]
                   },
                   {
-                     "name": 14,
+                     "name": "Medizinischen Universität Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1034,7 +1034,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1042,7 +1042,7 @@
                      ]
                   },
                   {
-                     "name": 16,
+                     "name": "Technischen Universität Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1071,7 +1071,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1079,7 +1079,7 @@
                      ]
                   },
                   {
-                     "name": 17,
+                     "name": "Universität für Musik und darstellende Kunst Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1108,7 +1108,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":882},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":361.6}
                            ]
@@ -1116,7 +1116,7 @@
                      ]
                   },
                   {
-                     "name": 30,
+                     "name": "FH Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1145,7 +1145,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":709},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":709},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1153,7 +1153,7 @@
                      ]
                   },
                   {
-                     "name": 31,
+                     "name": "FH JOANNEUM Bibliotheks- und Informationszentrum",
                      "children": [
                         {
                            "name": "Medien",
@@ -1182,7 +1182,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":178},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1190,7 +1190,7 @@
                      ]
                   },
                   {
-                     "name": 39,
+                     "name": "Kirchlich Pädagogische Hochschule Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1219,7 +1219,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":776},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":776},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":1},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1227,7 +1227,7 @@
                      ]
                   },
                   {
-                     "name": 40,
+                     "name": "Pädagogische Hochschule Steiermark",
                      "children": [
                         {
                            "name": "Medien",
@@ -1256,7 +1256,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":632},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":32.7}
                            ]
@@ -1264,7 +1264,7 @@
                      ]
                   },
                   {
-                     "name": 73,
+                     "name": "Theologenbücherei Priesterseminar Graz",
                      "children": [
                         {
                            "name": "Medien",
@@ -1293,7 +1293,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":6.0}
                            ]
@@ -1306,7 +1306,7 @@
                "name": "Leoben",
                "children": [
                   {
-                     "name": 15,
+                     "name": "Montanuniversität Leoben",
                      "children": [
                         {
                            "name": "Medien",
@@ -1335,7 +1335,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":18},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":888.9}
                            ]
@@ -1354,7 +1354,7 @@
                "name": "Innsbruck",
                "children": [
                   {
-                     "name": 18,
+                     "name": "Universitäts- und Landesbibliothek Tirol",
                      "children": [
                         {
                            "name": "Medien",
@@ -1383,7 +1383,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1391,7 +1391,7 @@
                      ]
                   },
                   {
-                     "name": 41,
+                     "name": "Pädagogische Hochschule Tirol",
                      "children": [
                         {
                            "name": "Medien",
@@ -1420,7 +1420,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":475},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -1428,7 +1428,7 @@
                      ]
                   },
                   {
-                     "name": 62,
+                     "name": "Tiroler Landesmuseum Ferdinandeum",
                      "children": [
                         {
                            "name": "Medien",
@@ -1457,7 +1457,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":54.0}
                            ]
@@ -1476,7 +1476,7 @@
                "name": "Bregenz",
                "children": [
                   {
-                     "name": 6,
+                     "name": "Vorarlberger Landesbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -1505,7 +1505,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":769.1}
                            ]
@@ -1519,7 +1519,7 @@
                "children": [
 
                   {
-                     "name": 48,
+                     "name": "Vorarlberger Landeskonservatorium",
                      "children": [
                         {
                            "name": "Medien",
@@ -1548,7 +1548,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":401},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":401},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":243},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":32.1}
                            ]
@@ -1556,7 +1556,7 @@
                      ]
                   },
                   {
-                     "name": 63,
+                     "name": "Stadtbibliothek Feldkirch",
                      "children": [
                         {
                            "name": "Medien",
@@ -1585,7 +1585,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":48.9}
                            ]
@@ -1633,7 +1633,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1641,7 +1641,7 @@
                         ]
                   },
                   {
-                     "name": 7,
+                     "name": "Wienbibliothek im Rathaus",
                      "children": [
                         {
                            "name": "Medien",
@@ -1671,7 +1671,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":475.6}
                            ]
@@ -1679,7 +1679,7 @@
                      ]
                   },
                   {
-                     "name": 19,
+                     "name": "Medizinische Universität Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1709,7 +1709,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1717,7 +1717,7 @@
                      ]
                   },
                   {
-                     "name": 20,
+                     "name": "Technische Universität Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1746,7 +1746,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1754,7 +1754,7 @@
                      ]
                   },
                   {
-                     "name": 21,
+                     "name": "Universität für angewandte Kunst Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1783,7 +1783,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":234},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":189.9}
                            ]
@@ -1791,7 +1791,7 @@
                      ]
                   },
                   {
-                     "name": 22,
+                     "name": "Universität für Bodenkultur Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1820,7 +1820,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":782},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1828,7 +1828,7 @@
                      ]
                   },
                   {
-                     "name": 23,
+                     "name": "Universität für Musik und darstellende Kunst Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1857,7 +1857,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":369},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":188.9}
                            ]
@@ -1865,7 +1865,7 @@
                      ]
                   },
                   {
-                     "name": 24,
+                     "name": "Universität Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1894,7 +1894,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1902,7 +1902,7 @@
                      ]
                   },
                   {
-                     "name": 25,
+                     "name": "Veterinärmedizinischen Universität Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1932,7 +1932,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":838.6}
                            ]
@@ -1940,7 +1940,7 @@
                      ]
                   },
                   {
-                     "name": 26,
+                     "name": "Wirtschaftsuniversität Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -1969,7 +1969,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":null}
                            ]
@@ -1977,7 +1977,7 @@
                      ]
                   },
                   {
-                     "name": 32,
+                     "name": "Fachhochschule des bfi Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -2006,7 +2006,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2014,7 +2014,7 @@
                      ]
                   },
                   {
-                     "name": 33,
+                     "name": "FH Campus Wien, Bibliothek und Mediathek",
                      "children": [
                         {
                            "name": "Medien",
@@ -2043,7 +2043,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2051,7 +2051,7 @@
                      ]
                   },
                   {
-                     "name": 34,
+                     "name": "FH Wien - Studiengänge der WKW",
                      "children": [
                         {
                            "name": "Medien",
@@ -2080,7 +2080,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":805},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":805},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2088,7 +2088,7 @@
                      ]
                   },
                   {
-                     "name": 42,
+                     "name": "Hochschule für Agrar- und Umweltpädagogik Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -2117,7 +2117,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":886},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":886},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":43},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":14.0}
                            ]
@@ -2125,7 +2125,7 @@
                      ]
                   },
                   {
-                     "name": 43,
+                     "name": "Pädagogische Hochschule Wien Campusbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -2154,7 +2154,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":275},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":43.8}
                            ]
@@ -2162,7 +2162,7 @@
                      ]
                   },
                   {
-                     "name": 52,
+                     "name": "Administrative Bibliothek des Bundes",
                      "children": [
                         {
                            "name": "Medien",
@@ -2191,7 +2191,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2199,7 +2199,7 @@
                      ]
                   },
                   {
-                     "name": 53,
+                     "name": "Bundesanstalt für Agrarwirtschaft",
                      "children": [
                         {
                            "name": "Medien",
@@ -2228,7 +2228,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":336},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":336},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":54},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":25.0}
                            ]
@@ -2236,7 +2236,7 @@
                      ]
                   },
                   {
-                     "name": 54,
+                     "name": "Bundesministerium für Justiz",
                      "children": [
                         {
                            "name": "Medien",
@@ -2265,7 +2265,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":827},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":827},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2273,7 +2273,7 @@
                      ]
                   },
                   {
-                     "name": 55,
+                     "name": "BMLVS Österreichische Militärbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -2302,7 +2302,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":325},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2310,7 +2310,7 @@
                      ]
                   },
                   {
-                     "name": 56,
+                     "name": "Clusterbib. - Europ. Dokumentationszentrum (EDZ)",
                      "children": [
                         {
                            "name": "Medien",
@@ -2339,7 +2339,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":851},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":851},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":388},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":906.5}
                            ]
@@ -2347,7 +2347,7 @@
                      ]
                   },
                   {
-                     "name": 57,
+                     "name": "Oberster Gerichtshof",
                      "children": [
                         {
                            "name": "Medien",
@@ -2376,7 +2376,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":415.5}
                            ]
@@ -2384,7 +2384,7 @@
                      ]
                   },
                   {
-                     "name": 58,
+                     "name": "Österreichisches Patentamt",
                      "children": [
                         {
                            "name": "Medien",
@@ -2413,7 +2413,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":390},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":390},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":330},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":36.3}
                            ]
@@ -2421,7 +2421,7 @@
                      ]
                   },
                   {
-                     "name": 59,
+                     "name": "Parlamentsbibliothek",
                      "children": [
                         {
                            "name": "Medien",
@@ -2450,7 +2450,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":107.0}
                            ]
@@ -2458,7 +2458,7 @@
                      ]
                   },
                   {
-                     "name": 64,
+                     "name": "Bundesforschungsz. Wald, Naturgefahren u. Landschaft",
                      "children": [
                         {
                            "name": "Medien",
@@ -2487,7 +2487,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":159},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":159},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":40},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2495,7 +2495,7 @@
                      ]
                   },
                   {
-                     "name": 65,
+                     "name": "C3-Bibliothek für Entwicklungspolitik",
                      "children": [
                         {
                            "name": "Medien",
@@ -2524,7 +2524,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":48.2}
                            ]
@@ -2532,7 +2532,7 @@
                      ]
                   },
                   {
-                     "name": 66,
+                     "name": "Institut für Höhere Studien (IHS)",
                      "children": [
                         {
                            "name": "Medien",
@@ -2561,7 +2561,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":333},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":333},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":15},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2569,7 +2569,7 @@
                      ]
                   },
                   {
-                     "name": 67,
+                     "name": "Literaturhaus Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -2598,7 +2598,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":null},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2606,7 +2606,7 @@
                      ]
                   },
                   {
-                     "name": 68,
+                     "name": "Österreichische Akademie der Wissenschaft",
                      "children": [
                         {
                            "name": "Medien",
@@ -2635,7 +2635,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":399},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2643,7 +2643,7 @@
                      ]
                   },
                   {
-                     "name": 69,
+                     "name": "Österreichisches Institut für Wirtschaftsforschung",
                      "children": [
                         {
                            "name": "Medien",
@@ -2672,7 +2672,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2680,7 +2680,7 @@
                      ]
                   },
                   {
-                     "name": 70,
+                     "name": "Österreichische Kulturdokumentation",
                      "children": [
                         {
                            "name": "Medien",
@@ -2709,7 +2709,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":200},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":200},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":150},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":4.5}
                            ]
@@ -2717,7 +2717,7 @@
                      ]
                   },
                   {
-                     "name": 71,
+                     "name": "Wiener Institut für Internationale Wirtschaftsvergleiche",
                      "children": [
                         {
                            "name": "Medien",
@@ -2746,7 +2746,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":100},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":100},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":2},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2754,7 +2754,7 @@
                      ]
                   },
                   {
-                     "name": 72,
+                     "name": "Wiener Stadt- und Landesarchiv",
                      "children": [
                         {
                            "name": "Medien",
@@ -2783,7 +2783,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":44.1}
                            ]
@@ -2791,7 +2791,7 @@
                      ]
                   },
                   {
-                     "name": 74,
+                     "name": "Bibliothek der Evangelischen Kirche",
                      "children": [
                         {
                            "name": "Medien",
@@ -2820,7 +2820,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":700},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":700},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":7.1}
                            ]
@@ -2828,7 +2828,7 @@
                      ]
                   },
                   {
-                     "name": 75,
+                     "name": "Christlich-jüdisches Informationszentrum",
                      "children": [
                         {
                            "name": "Medien",
@@ -2857,7 +2857,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":204},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":204},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":1.7}
                            ]
@@ -2865,7 +2865,7 @@
                      ]
                   },
                   {
-                     "name": 76,
+                     "name": "Wirtschaftskammer Wien",
                      "children": [
                         {
                            "name": "Medien",
@@ -2894,7 +2894,7 @@
                         {
                            "name": "Neuzugänge",
                            "children": [
-                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":0},
+                              {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":0},
                               {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":0},
                               {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                            ]
@@ -2907,7 +2907,7 @@
                "name": "Wien-Innere Stadt",
                "children": [
                {
-                  "name": 49,
+                  "name": "Konservatorium Wien Privatuniversität",
                   "children": [
                      {
                         "name": "Medien",
@@ -2936,7 +2936,7 @@
                      {
                         "name": "Neuzugänge",
                         "children": [
-                           {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke (physische Einheiten)","size":null},
+                           {"name":"Bücher,Zeitungen und Zeitschriften sowie Sammelwerke","size":null},
                            {"name":"Digitale Bestände: Einzeldokumente sowie Datenbanken","size":102},
                            {"name":"Ausgaben für Bestandsvermehrung in 1.000 EUR","size":0}
                         ]
