@@ -168,10 +168,9 @@ polygon {
 }
 
 #filterTopics{
-    float: left;
-    margin-bottom:30px;
     color: #000 !important;
-    margin-top: -200px;
+    margin-top: 450px;
+    position: absolute;
 }
 #filterDataAmount{
     float:left;
@@ -181,4 +180,34 @@ polygon {
 
 .sublist{
     margin-left:20px;
+}
+
+@media only screen and (max-width: 1275px) {
+    #sidebar {
+        margin-top: 250px;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    #filterTopics {
+        position: relative;
+        width: 100%;
+    }
+    
+    #sidebar, #leftsidebar, #main {
+        width: 100%;
+    }
+    
+    .whole {
+        margin-top: -700px;
+    }
+    
+    #main {
+        margin-top: 150px;
+        margin-left: 0px;
+    }
+    
+    #sidebar {
+        margin-top: 0px;
+    }
 }
